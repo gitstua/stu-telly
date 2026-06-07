@@ -1,0 +1,29 @@
+name: Refresh IPTV Playlist
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # every 2 hours
+  workflow_dispatch:          # manual run button in GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # needed to push the commit
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Filter playlist
+        run: python3 filter.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add canberra.m3u8
+          # only commit when the file actually changed
+          git diff --staged --quiet && echo "No changes." || (
+            git commit -m "chore: refresh playlist $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          )
