@@ -1,5 +1,5 @@
 """
-Fetches the Canberra raw IPTV playlist and writes a filtered copy
+Fetches the Canberra raw IPTV playlist and EPG, writes filtered copies
 containing only the five nominated channels.
 
 raw-tv.m3u8 format (#EXTINF, then zero or more #EXTVLCOPT lines, then URL):
@@ -9,12 +9,21 @@ raw-tv.m3u8 format (#EXTINF, then zero or more #EXTVLCOPT lines, then URL):
   https://c.mjh.nz/abc-act.m3u8
 """
 
+import gzip
 import re
 import sys
 import urllib.request
+import xml.etree.ElementTree as ET
 
-SOURCE = "https://i.mjh.nz/au/Canberra/raw-tv.m3u8"
-OUTPUT = "canberra.m3u8"
+SOURCE_M3U = "https://i.mjh.nz/au/Canberra/raw-tv.m3u8"
+SOURCE_EPG = "https://i.mjh.nz/au/Canberra/epg.xml.gz"
+
+# Raw URL for the EPG we publish to the release branch.
+# Jellyfin/Moonfin reads this instead of the full upstream EPG.
+EPG_RAW_URL = "https://raw.githubusercontent.com/gitstua/stu-telly/release/epg.xml.gz"
+
+OUTPUT_M3U = "canberra.m3u8"
+OUTPUT_EPG = "epg.xml.gz"
 
 KEEP = {
     "mjh-seven-syd",      # Seven     ch 7
@@ -24,16 +33,23 @@ KEEP = {
     "mjh-abc-news",       # ABC NEWS  ch 24
 }
 
-def fetch(url: str) -> str:
+def fetch_bytes(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": "IPTV-Filter/1.0"})
     with urllib.request.urlopen(req, timeout=15) as r:
-        return r.read().decode()
+        return r.read()
+
+def fetch(url: str) -> str:
+    return fetch_bytes(url).decode()
 
 def filter_m3u(text: str) -> str:
-    lines = text.splitlines()
-    out   = []
+    lines  = text.splitlines()
+    out    = []
 
     header = next((l for l in lines if l.startswith("#EXTM3U")), "#EXTM3U")
+    # Point x-tvg-url at our filtered EPG on the release branch.
+    header = re.sub(r'x-tvg-url="[^"]*"', f'x-tvg-url="{EPG_RAW_URL}"', header)
+    if 'x-tvg-url=' not in header:
+        header += f' x-tvg-url="{EPG_RAW_URL}"'
     out.append(header)
 
     i = 0
@@ -52,37 +68,60 @@ def filter_m3u(text: str) -> str:
         j     = i + 1
         while j < len(lines):
             cur = lines[j]
-            if not cur.strip():           # skip blank lines
+            if not cur.strip():
                 j += 1
                 continue
             block.append(cur)
-            if not cur.startswith("#"):   # this was the URL — stop
+            if not cur.startswith("#"):   # stream URL — stop
                 break
             j += 1
 
         if channel_id in KEEP:
-            out.append("")               # blank separator
+            out.append("")
             out.extend(block)
 
         i = j + 1
 
     return "\n".join(out) + "\n"
 
-def main():
-    print(f"Fetching {SOURCE} …")
-    raw      = fetch(SOURCE)
-    filtered = filter_m3u(raw)
+def filter_epg(data: bytes) -> bytes:
+    raw  = gzip.decompress(data)
+    root = ET.fromstring(raw)
 
-    with open(OUTPUT, "w", encoding="utf-8") as f:
+    for elem in root.findall("channel"):
+        if elem.get("id") not in KEEP:
+            root.remove(elem)
+
+    for elem in root.findall("programme"):
+        if elem.get("channel") not in KEEP:
+            root.remove(elem)
+
+    return gzip.compress(ET.tostring(root, encoding="unicode").encode())
+
+def main():
+    print(f"Fetching {SOURCE_M3U} …")
+    raw_m3u  = fetch(SOURCE_M3U)
+    filtered = filter_m3u(raw_m3u)
+
+    with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write(filtered)
 
     kept = filtered.count("#EXTINF")
-    print(f"Written {OUTPUT} — {kept}/{len(KEEP)} channels matched")
+    print(f"Written {OUTPUT_M3U} — {kept}/{len(KEEP)} channels matched")
 
     if kept != len(KEEP):
         missing = KEEP - set(re.findall(r'channel-id="([^"]+)"', filtered))
         print(f"WARNING: missing channel IDs: {missing}", file=sys.stderr)
-        sys.exit(1)   # fail the Action so you get an email
+        sys.exit(1)
+
+    print(f"Fetching {SOURCE_EPG} …")
+    raw_epg      = fetch_bytes(SOURCE_EPG)
+    filtered_epg = filter_epg(raw_epg)
+
+    with open(OUTPUT_EPG, "wb") as f:
+        f.write(filtered_epg)
+
+    print(f"Written {OUTPUT_EPG}")
 
 if __name__ == "__main__":
     main()

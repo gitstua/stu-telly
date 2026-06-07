@@ -26,8 +26,11 @@ jobs:
 
           if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
             git fetch --depth 1 origin "$BRANCH"
-            # Byte-compare against the published copy; bail out if identical.
-            if git show FETCH_HEAD:canberra.m3u8 2>/dev/null | cmp -s - canberra.m3u8; then
+            # Byte-compare both files; bail out only if both are identical.
+            m3u_same=true; epg_same=true
+            git show FETCH_HEAD:canberra.m3u8 2>/dev/null | cmp -s - canberra.m3u8 || m3u_same=false
+            git show FETCH_HEAD:epg.xml.gz    2>/dev/null | cmp -s - epg.xml.gz    || epg_same=false
+            if $m3u_same && $epg_same; then
               echo "No changes — $BRANCH already up to date."
               exit 0
             fi
@@ -40,7 +43,8 @@ jobs:
           fi
 
           cp canberra.m3u8 pub/canberra.m3u8
-          git -C pub add canberra.m3u8
+          cp epg.xml.gz   pub/epg.xml.gz
+          git -C pub add canberra.m3u8 epg.xml.gz
           git -C pub commit -m "playlist: refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git -C pub push origin "HEAD:$BRANCH"
           echo "Published to $BRANCH."
