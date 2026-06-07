@@ -9,7 +9,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # needed to push the commit
+      contents: write         # needed to push to the release branch
+    env:
+      BRANCH: release         # orphan branch that holds only canberra.m3u8
 
     steps:
       - uses: actions/checkout@v4
@@ -17,13 +19,28 @@ jobs:
       - name: Filter playlist
         run: python3 filter.py
 
-      - name: Commit if changed
+      - name: Publish to ${{ env.BRANCH }} branch (only if changed)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add canberra.m3u8
-          # only commit when the file actually changed
-          git diff --staged --quiet && echo "No changes." || (
-            git commit -m "chore: refresh playlist $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
-          )
+
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git fetch --depth 1 origin "$BRANCH"
+            # Byte-compare against the published copy; bail out if identical.
+            if git show FETCH_HEAD:canberra.m3u8 2>/dev/null | cmp -s - canberra.m3u8; then
+              echo "No changes — $BRANCH already up to date."
+              exit 0
+            fi
+            git worktree add --detach pub FETCH_HEAD
+          else
+            # First publish: start an orphan branch with no history from main.
+            git worktree add --detach pub HEAD
+            git -C pub checkout --orphan "$BRANCH"
+            git -C pub rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          cp canberra.m3u8 pub/canberra.m3u8
+          git -C pub add canberra.m3u8
+          git -C pub commit -m "playlist: refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git -C pub push origin "HEAD:$BRANCH"
+          echo "Published to $BRANCH."
