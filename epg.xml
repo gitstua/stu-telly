@@ -26,45 +26,6 @@
     <lcn>24</lcn>
     <icon src="https://i.mjh.nz/.images/abc-news.png" />
   </channel>
-  <programme start="20260608040000 +0000" stop="20260608043000 +0000" channel="mjh-abc-act">
-    <title>Spicks and Specks</title>
-    <desc>Natalie Bassingthwaighte, Nina Oyama, Sam Cromack and Steph Tisdell join Alan, Myf and Adam. Nina lives out her furry fantasies, Steph gets owned by Delta Goodrem and Sarah Blasko's performance will give you goosebumps.</desc>
-    <category>Music</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/176223/image" />
-    <episode-num system="SxxExx">S12E02</episode-num>
-    <episode-num system="xmltv_ns">11.1.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <previously-shown />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260608043000 +0000" stop="20260608045500 +0000" channel="mjh-abc-act">
-    <title>Anh's Brush With Fame</title>
-    <sub-title>Layne Beachley</sub-title>
-    <desc>World Champion Surfer Layne Beachley has overcome many emotional and physical battles in her unrelenting quest for success, love and contentment. How will Anh portray such a complex and driven figure?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/348667/image" />
-    <episode-num system="SxxExx">S05E06</episode-num>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <previously-shown />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260608045500 +0000" stop="20260608055500 +0000" channel="mjh-abc-act">
-    <title>Restoration Australia</title>
-    <desc>AFL fanatics John and Rosie have bought an iconic 19th century gasworks building overlooking the North Melbourne Football Club and oval, and they want to turn into their dream home. (Final)</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/333755/image" />
-    <episode-num system="SxxExx">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260608055500 +0000" stop="20260608064500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
     <sub-title>Back And To The Left</sub-title>
@@ -2546,30 +2507,6 @@
     <episode-num system="xmltv_ns">2025.17.</episode-num>
     <episode-num system="original-air-date">2026-06-16</episode-num>
   </programme>
-  <programme start="20260608035800 +0000" stop="20260608045900 +0000" channel="mjh-channel-9-nsw">
-    <title>Pointless</title>
-    <desc>We step back in time for round 1 as host Alexander Armstrong is joined by Liza Tarbuck.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/325129/image" />
-    <episode-num system="SxxExx">S33E09</episode-num>
-    <episode-num system="xmltv_ns">32.8.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260608045900 +0000" stop="20260608060000 +0000" channel="mjh-channel-9-nsw">
-    <title>Tipping Point</title>
-    <desc>Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/331700/image" />
-    <episode-num system="SxxExx">S14E19</episode-num>
-    <episode-num system="xmltv_ns">13.18.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260608060000 +0000" stop="20260608065800 +0000" channel="mjh-channel-9-nsw">
     <title>9News Afternoon</title>
     <desc>9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.</desc>
@@ -2578,6 +2515,9 @@
     <episode-num system="SxxExx">S2026E113</episode-num>
     <episode-num system="xmltv_ns">2025.112.</episode-num>
     <episode-num system="original-air-date">2026-06-08</episode-num>
+    <rating>
+      <value>MA</value>
+    </rating>
   </programme>
   <programme start="20260608065800 +0000" stop="20260608075900 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point Australia</title>
@@ -2599,9 +2539,6 @@
     <episode-num system="SxxExx">S2026E113</episode-num>
     <episode-num system="xmltv_ns">2025.112.</episode-num>
     <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>NA</value>
-    </rating>
   </programme>
   <programme start="20260608090000 +0000" stop="20260608093100 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
@@ -2724,12 +2661,14 @@
   </programme>
   <programme start="20260608163900 +0000" stop="20260608170800 +0000" channel="mjh-channel-9-nsw">
     <title>Global Shop</title>
+    <sub-title>Eezy Breezy</sub-title>
     <desc>Home shopping programme.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/266663/image" />
     <episode-num system="SxxExx">S2014E130</episode-num>
     <episode-num system="xmltv_ns">2013.129.</episode-num>
     <episode-num system="original-air-date">2026-06-08</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2801,9 +2740,6 @@
     <episode-num system="SxxExx">S2026E114</episode-num>
     <episode-num system="xmltv_ns">2025.113.</episode-num>
     <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20260608230000 +0000" stop="20260609013000 +0000" channel="mjh-channel-9-nsw">
     <title>Today Extra</title>
@@ -4757,27 +4693,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260608040000 +0000" stop="20260608050000 +0000" channel="mjh-seven-syd">
-    <title>AFL: The Big Freeze @ The G</title>
-    <desc>Enjoy all the fun as some of the AFL's biggest superstars embrace the Big Freeze tradition of dressing up and taking an icy plunge - all in the name of continuing the fight against the MND 'Beast'.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/22467378/image" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260608050000 +0000" stop="20260608060000 +0000" channel="mjh-seven-syd">
-    <title>The Chase</title>
-    <desc>Four contestants go into battle against the Chaser as they try to win thousands of pounds. However, standing in the way is their common enemy, the Chaser, one of the finest quiz brains in the UK.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/301143/image" />
-    <episode-num system="SxxExx">S12E74</episode-num>
-    <episode-num system="xmltv_ns">11.73.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260608060000 +0000" stop="20260608070000 +0000" channel="mjh-seven-syd">
     <title>Seven News At 4</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
@@ -6549,27 +6464,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260608040000 +0000" stop="20260608043000 +0000" channel="mjh-10-nsw">
-    <title>Millionaire Hot Seat</title>
-    <desc>In this episode, proud minimalist Umair competes for the ulimate prize alongside six determined contestents, including actor Jess and surfboard designer Aaron.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image" />
-    <episode-num system="SxxExx">S16E61</episode-num>
-    <episode-num system="xmltv_ns">15.60.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260608043000 +0000" stop="20260608053000 +0000" channel="mjh-10-nsw">
-    <title>The Finish Line</title>
-    <desc>Layton Williams, Emma Barton, Mark Pougatch, Karenjeet Kaur Bains and Dr Punam Krishan race in moving podiums in a festive episode of The Finish Line to try to win  5,000 for their chosen charity.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image" />
-    <episode-num system="SxxExx">S04E05</episode-num>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-  </programme>
   <programme start="20260608053000 +0000" stop="20260608063000 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
     <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
@@ -8090,7 +7984,6 @@
   </programme>
   <programme start="20260612013000 +0000" stop="20260612020000 +0000" channel="mjh-10-nsw">
     <title>Everyday Gourmet With Justine Schofield</title>
-    <sub-title>Episode 4</sub-title>
     <desc>Justine Schofield along with special guests present a variety of delicious recipes for the home cook.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/266808/image" />
@@ -9580,32 +9473,6 @@
     <episode-num system="xmltv_ns">44.199.</episode-num>
     <episode-num system="original-air-date">2026-06-16</episode-num>
   </programme>
-  <programme start="20260608030000 +0000" stop="20260608050000 +0000" channel="mjh-abc-news">
-    <title>ABC News Day</title>
-    <desc>As the day unfolds, stay in touch with the latest news and information you need to know. Kathryn Robinson brings you today's top stories, up to date information, interviews and live reports on the issues that matter.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/400964/image" />
-    <episode-num system="SxxExx">S2026E113</episode-num>
-    <episode-num system="xmltv_ns">2025.112.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
-  </programme>
-  <programme start="20260608050000 +0000" stop="20260608060000 +0000" channel="mjh-abc-news">
-    <title>ABC News Afternoons</title>
-    <desc>Wherever you are stay in touch with ABC News through the day. We have reporters in more places, to tell you what's happening. Kathryn Robinson brings you the latest news and information, interviews and live reports.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/337805/image" />
-    <episode-num system="SxxExx">S2026E113</episode-num>
-    <episode-num system="xmltv_ns">2025.112.</episode-num>
-    <episode-num system="original-air-date">2026-06-08</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
-  </programme>
   <programme start="20260608060000 +0000" stop="20260608070000 +0000" channel="mjh-abc-news">
     <title>Afternoon Briefing</title>
     <desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to key players and experts on the issues driving the news cycle.</desc>
@@ -9909,10 +9776,6 @@
     <episode-num system="SxxExx">S2026E114</episode-num>
     <episode-num system="xmltv_ns">2025.113.</episode-num>
     <episode-num system="original-air-date">2026-06-08</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260608230000 +0000" stop="20260609020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
@@ -9931,10 +9794,6 @@
     <episode-num system="SxxExx">S2026E114</episode-num>
     <episode-num system="xmltv_ns">2025.113.</episode-num>
     <episode-num system="original-air-date">2026-06-09</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260609030000 +0000" stop="20260609050000 +0000" channel="mjh-abc-news">
     <title>ABC News Day</title>
@@ -10278,10 +10137,6 @@
     <episode-num system="SxxExx">S2026E115</episode-num>
     <episode-num system="xmltv_ns">2025.114.</episode-num>
     <episode-num system="original-air-date">2026-06-09</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260609230000 +0000" stop="20260610020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
@@ -10300,24 +10155,15 @@
     <episode-num system="SxxExx">S2026E115</episode-num>
     <episode-num system="xmltv_ns">2025.114.</episode-num>
     <episode-num system="original-air-date">2026-06-10</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260610023000 +0000" stop="20260610033500 +0000" channel="mjh-abc-news">
     <title>National Press Club</title>
-    <sub-title>Andrew Leigh - Assistant Minister for Productivity, Competition, Charities and Treasury</sub-title>
     <desc>Andrew Leigh, the Assistant Minister for Productivity, Competition, Charities and Treasury, addresses the National Press Club on the topic "Rebuilding Trust: The Future of Australia's Charities and Community Life".</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/132436/image" />
     <episode-num system="SxxExx">S2026E20</episode-num>
     <episode-num system="xmltv_ns">2025.19.</episode-num>
     <episode-num system="original-air-date">2026-06-10</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260610033500 +0000" stop="20260610050000 +0000" channel="mjh-abc-news">
     <title>ABC News Day</title>
@@ -10479,6 +10325,10 @@
     <episode-num system="SxxExx">S2026E115</episode-num>
     <episode-num system="xmltv_ns">2025.114.</episode-num>
     <episode-num system="original-air-date">2026-06-10</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260610132900 +0000" stop="20260610140000 +0000" channel="mjh-abc-news">
     <title>7.30</title>
@@ -10657,10 +10507,6 @@
     <episode-num system="SxxExx">S2026E116</episode-num>
     <episode-num system="xmltv_ns">2025.115.</episode-num>
     <episode-num system="original-air-date">2026-06-10</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260610230000 +0000" stop="20260611020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
@@ -10679,10 +10525,6 @@
     <episode-num system="SxxExx">S2026E116</episode-num>
     <episode-num system="xmltv_ns">2025.115.</episode-num>
     <episode-num system="original-air-date">2026-06-11</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260611030000 +0000" stop="20260611050000 +0000" channel="mjh-abc-news">
     <title>ABC News Day</title>
@@ -10844,6 +10686,10 @@
     <episode-num system="SxxExx">S2026E116</episode-num>
     <episode-num system="xmltv_ns">2025.115.</episode-num>
     <episode-num system="original-air-date">2026-06-11</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260611132900 +0000" stop="20260611140000 +0000" channel="mjh-abc-news">
     <title>7.30</title>
@@ -11023,10 +10869,6 @@
     <episode-num system="SxxExx">S2026E117</episode-num>
     <episode-num system="xmltv_ns">2025.116.</episode-num>
     <episode-num system="original-air-date">2026-06-11</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260611230000 +0000" stop="20260612020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
@@ -11045,10 +10887,6 @@
     <episode-num system="SxxExx">S2026E117</episode-num>
     <episode-num system="xmltv_ns">2025.116.</episode-num>
     <episode-num system="original-air-date">2026-06-12</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260612030000 +0000" stop="20260612050000 +0000" channel="mjh-abc-news">
     <title>ABC News Day</title>
@@ -11227,6 +11065,10 @@
     <episode-num system="SxxExx">S2026E117</episode-num>
     <episode-num system="xmltv_ns">2025.116.</episode-num>
     <episode-num system="original-air-date">2026-06-12</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260612133000 +0000" stop="20260612140000 +0000" channel="mjh-abc-news">
     <title>The World This Week</title>
@@ -11444,9 +11286,6 @@
     <episode-num system="SxxExx">S2026E47</episode-num>
     <episode-num system="xmltv_ns">2025.46.</episode-num>
     <episode-num system="original-air-date">2026-06-12</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260613010000 +0000" stop="20260613013000 +0000" channel="mjh-abc-news">
     <title>ABC News Hour</title>
@@ -11474,9 +11313,6 @@
     <episode-num system="SxxExx">S2026E47</episode-num>
     <episode-num system="xmltv_ns">2025.46.</episode-num>
     <episode-num system="original-air-date">2026-06-13</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260613023000 +0000" stop="20260613030000 +0000" channel="mjh-abc-news">
     <title>ABC News Regional</title>
@@ -11872,9 +11708,6 @@
     <episode-num system="SxxExx">S2026E48</episode-num>
     <episode-num system="xmltv_ns">2025.47.</episode-num>
     <episode-num system="original-air-date">2026-06-13</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260613230100 +0000" stop="20260614000000 +0000" channel="mjh-abc-news">
     <title>Insiders</title>
@@ -11884,9 +11717,6 @@
     <episode-num system="SxxExx">S2026E20</episode-num>
     <episode-num system="xmltv_ns">2025.19.</episode-num>
     <episode-num system="original-air-date">2026-06-13</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="mjh-abc-news">
     <title>Weekend Breakfast</title>
@@ -11923,9 +11753,6 @@
     <episode-num system="SxxExx">S2026E48</episode-num>
     <episode-num system="xmltv_ns">2025.47.</episode-num>
     <episode-num system="original-air-date">2026-06-14</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260614022800 +0000" stop="20260614030100 +0000" channel="mjh-abc-news">
     <title>Foreign Correspondent</title>
@@ -12253,9 +12080,6 @@
     <episode-num system="SxxExx">S2026E118</episode-num>
     <episode-num system="xmltv_ns">2025.117.</episode-num>
     <episode-num system="original-air-date">2026-06-14</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260614230000 +0000" stop="20260615020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
@@ -12274,9 +12098,6 @@
     <episode-num system="SxxExx">S2026E118</episode-num>
     <episode-num system="xmltv_ns">2025.117.</episode-num>
     <episode-num system="original-air-date">2026-06-15</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260615030000 +0000" stop="20260615050000 +0000" channel="mjh-abc-news">
     <title>ABC News Day</title>
