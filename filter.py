@@ -20,10 +20,10 @@ SOURCE_EPG = "https://i.mjh.nz/au/Canberra/epg.xml.gz"
 
 # Raw URL for the EPG we publish to the release branch.
 # Jellyfin/Moonfin reads this instead of the full upstream EPG.
-EPG_RAW_URL = "https://raw.githubusercontent.com/gitstua/stu-telly/release/epg.xml.gz"
+EPG_RAW_URL = "https://raw.githubusercontent.com/gitstua/stu-telly/release/epg.xml"
 
 OUTPUT_M3U = "canberra.m3u8"
-OUTPUT_EPG = "epg.xml.gz"
+OUTPUT_EPG = "epg.xml"
 
 KEEP = {
     "mjh-seven-syd",      # Seven     ch 7
@@ -97,7 +97,7 @@ def filter_epg(data: bytes) -> bytes:
             root.remove(elem)
 
     header = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
-    return gzip.compress((header + ET.tostring(root, encoding="unicode")).encode())
+    return (header + ET.tostring(root, encoding="unicode")).encode()
 
 def main():
     print(f"Fetching {SOURCE_M3U} …")
@@ -119,8 +119,8 @@ def main():
     raw_epg      = fetch_bytes(SOURCE_EPG)
     filtered_epg = filter_epg(raw_epg)
 
-    with open(OUTPUT_EPG, "wb") as f:
-        f.write(filtered_epg)
+    with open(OUTPUT_EPG, "w", encoding="utf-8") as f:
+        f.write(filtered_epg.decode())
 
     print(f"Written {OUTPUT_EPG}")
 
