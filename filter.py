@@ -96,7 +96,8 @@ def filter_epg(data: bytes) -> bytes:
         if elem.get("channel") not in KEEP:
             root.remove(elem)
 
-    return gzip.compress(ET.tostring(root, encoding="unicode").encode())
+    header = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
+    return gzip.compress((header + ET.tostring(root, encoding="unicode")).encode())
 
 def main():
     print(f"Fetching {SOURCE_M3U} …")
