@@ -1,6 +1,6 @@
 """
 Fetches the Canberra raw IPTV playlist and EPG, writes filtered copies
-containing only the five nominated channels.
+containing only the six nominated channels.
 
 raw-tv.m3u8 format (#EXTINF, then zero or more #EXTVLCOPT lines, then URL):
   #EXTINF:-1 channel-id="mjh-abc-act" ... , ABC TV
@@ -26,6 +26,7 @@ OUTPUT_M3U = "canberra.m3u8"
 OUTPUT_EPG = "epg.xml"
 
 KEEP = {
+    "mjh-sbs-sbst",       # SBS ONE   ch 3
     "mjh-seven-syd",      # Seven     ch 7
     "mjh-channel-9-nsw",  # Channel 9 ch 9
     "mjh-10-nsw",         # 10        ch 10
