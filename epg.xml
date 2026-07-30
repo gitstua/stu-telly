@@ -31,18 +31,6 @@
     <lcn>24</lcn>
     <icon src="https://i.mjh.nz/.images/abc-news.png" />
   </channel>
-  <programme start="20260730133500 +0000" stop="20260730142000 +0000" channel="mjh-abc-act">
-    <title>Long Lost Family</title>
-    <desc>Two stories that take us across the globe: a woman's search for her birth mother in Sri Lanka and a quest on behalf of a father, longing to find his lost son.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/276202/image" />
-    <episode-num system="SxxExx">S10E03</episode-num>
-    <episode-num system="xmltv_ns">9.2.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260730142000 +0000" stop="20260730170000 +0000" channel="mjh-abc-act">
     <title>rage Charts</title>
     <desc>Australia's longest running music TV show, rage is home to the biggest vault of music videos from a diverse range of artists, genres and eras. We curate the best clips of all time to surprise and entertain you for hours.</desc>
@@ -63,6 +51,7 @@
     <episode-num system="SxxExx">S34E07</episode-num>
     <episode-num system="xmltv_ns">33.6.</episode-num>
     <episode-num system="original-air-date">2026-07-30</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -101,10 +90,6 @@
     <episode-num system="SxxExx">S2026E120</episode-num>
     <episode-num system="xmltv_ns">2025.119.</episode-num>
     <episode-num system="original-air-date">2026-07-30</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260730200000 +0000" stop="20260730230000 +0000" channel="mjh-abc-act">
     <title>ABC News Breakfast</title>
@@ -114,6 +99,10 @@
     <episode-num system="SxxExx">S2026E152</episode-num>
     <episode-num system="xmltv_ns">2025.151.</episode-num>
     <episode-num system="original-air-date">2026-07-30</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260730230000 +0000" stop="20260731000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
@@ -123,31 +112,31 @@
     <episode-num system="SxxExx">S2026E152</episode-num>
     <episode-num system="xmltv_ns">2025.151.</episode-num>
     <episode-num system="original-air-date">2026-07-30</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260731000000 +0000" stop="20260731003000 +0000" channel="mjh-abc-act">
     <title>Compass</title>
-    <sub-title>Faith, Power and Modi</sub-title>
     <desc>Indian PM Modi has once again visited Australia and ties between the two countries are strengthening. Hinduism is now the fastest growing religion here, but tensions rise between ancient beliefs and modern politics.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/135713/image" />
     <episode-num system="SxxExx">S40E21</episode-num>
     <episode-num system="xmltv_ns">39.20.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
   <programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="mjh-abc-act">
     <title>Stuff The British Stole</title>
-    <sub-title>Mystery Sphinx</sub-title>
     <desc>Marc Fennell takes us to Egypt, a remote Canadian island and London in a quest to unravel the mystery of a sphinx located in the British Museum that looks almost identical to those from Egypt - except it isn't. (Final)</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/427702/image" />
     <episode-num system="SxxExx">S02E08</episode-num>
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -188,12 +177,14 @@
   </programme>
   <programme start="20260731035000 +0000" stop="20260731050000 +0000" channel="mjh-abc-act">
     <title>Treasure and Dirt</title>
+    <sub-title>All The Creatures</sub-title>
     <desc>Ivan and Nell finally catch up with Stanley. Nell gets a disturbing call from Phelan and Ivan is pulled into the dark underbelly of the town.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/23966038/image" />
     <episode-num system="SxxExx">S01E02</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
+    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
@@ -213,7 +204,6 @@
   </programme>
   <programme start="20260731060000 +0000" stop="20260731064500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Loch Ness Murdoch</sub-title>
     <desc>A summer heat wave finds much of Toronto taking refuge at the beach, but when a body marked by a large bite washes ashore, rumours of a sea monster quickly spread across the city.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
@@ -232,6 +222,7 @@
     <episode-num system="SxxExx">S10E04</episode-num>
     <episode-num system="xmltv_ns">9.3.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -258,6 +249,7 @@
     <episode-num system="SxxExx">S06E34</episode-num>
     <episode-num system="xmltv_ns">5.33.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -270,9 +262,6 @@
     <episode-num system="SxxExx">S2026E212</episode-num>
     <episode-num system="xmltv_ns">2025.211.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260731093000 +0000" stop="20260731103000 +0000" channel="mjh-abc-act">
     <title>Monty Don s Rhineland Gardens</title>
@@ -288,7 +277,6 @@
   </programme>
   <programme start="20260731103000 +0000" stop="20260731111500 +0000" channel="mjh-abc-act">
     <title>Saint-Pierre</title>
-    <sub-title>The Bogman Cometh</sub-title>
     <desc>When an archaeologist winds up dead in her dig site, Arch and Fitz look into a group of academics to find the murderer.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/4069727/image" />
@@ -301,12 +289,14 @@
   </programme>
   <programme start="20260731111500 +0000" stop="20260731114500 +0000" channel="mjh-abc-act">
     <title>Spicks and Specks</title>
+    <sub-title>Caleb Harper, Dami Im, Nikki Britton and Andrew Maxwell</sub-title>
     <desc>We look at Eurovision history. Australia has tonight's guest, Dami Im. Ireland has Dustin the Turkey. Plus, Spacey Jane's Caleb Harper, comedians Nikki Britton and Andrew Maxwell. Julia Jacklin closes the show.</desc>
     <category>Music</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/176223/image" />
     <episode-num system="SxxExx">S13E04</episode-num>
     <episode-num system="xmltv_ns">12.3.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -331,41 +321,33 @@
     <episode-num system="SxxExx">S2026E152</episode-num>
     <episode-num system="xmltv_ns">2025.151.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260731123500 +0000" stop="20260731130000 +0000" channel="mjh-abc-act">
     <title>New Zealand Spy</title>
-    <sub-title>The Games</sub-title>
     <desc>Undercover as an athlete, coach, and chef, the spies are sent to Christchurch for the 1974 Unity Games to protect the Indian Foreign Minister from an assassination.</desc>
     <category>Comedy</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/24011355/image" />
     <episode-num system="SxxExx">S01E02</episode-num>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
   <programme start="20260731130000 +0000" stop="20260731134500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Loch Ness Murdoch</sub-title>
     <desc>A summer heat wave finds much of Toronto taking refuge at the beach, but when a body marked by a large bite washes ashore, rumours of a sea monster quickly spread across the city.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
     <episode-num system="SxxExx">S07E07</episode-num>
     <episode-num system="xmltv_ns">6.6.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
   <programme start="20260731134500 +0000" stop="20260731190000 +0000" channel="mjh-abc-act">
     <title>rage New Music</title>
-    <sub-title>Rage New Music</sub-title>
     <desc>Discover the wildest new music videos on rage. Essential grooves and boundary-pushing visuals from Australia and beyond.</desc>
     <category>Music</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image" />
@@ -409,6 +391,10 @@
     <episode-num system="SxxExx">S2026E61</episode-num>
     <episode-num system="xmltv_ns">2025.60.</episode-num>
     <episode-num system="original-air-date">2026-07-31</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260731230000 +0000" stop="20260801003000 +0000" channel="mjh-abc-act">
     <title>rage Charts</title>
@@ -469,14 +455,12 @@
   </programme>
   <programme start="20260801040500 +0000" stop="20260801045000 +0000" channel="mjh-abc-act">
     <title>Saint-Pierre</title>
-    <sub-title>The Bogman Cometh</sub-title>
     <desc>When an archaeologist winds up dead in her dig site, Arch and Fitz look into a group of academics to find the murderer.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/4069727/image" />
     <episode-num system="SxxExx">S01E05</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
-    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
@@ -495,14 +479,12 @@
   </programme>
   <programme start="20260801054000 +0000" stop="20260801063000 +0000" channel="mjh-abc-act">
     <title>Griff's Canadian Adventure</title>
-    <sub-title>Coldness</sub-title>
     <desc>Griff explores the Frozen Wilds of Manitoba, North Canada, and visits a town that sometimes has more polar bears than people.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/3935469/image" />
     <episode-num system="SxxExx">S01E04</episode-num>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
-    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -521,12 +503,17 @@
   </programme>
   <programme start="20260801070000 +0000" stop="20260801073500 +0000" channel="mjh-abc-act">
     <title>Australian Story</title>
+    <sub-title>Turning The Page - Luke Bateman</sub-title>
     <desc>Luke Bateman was flying high as an NRL player until a devastating gambling addiction destroyed his career. Saved by his love of books, he's now writing fantasy novels and says he's never been happier.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/132026/image" />
     <episode-num system="SxxExx">S2026E22</episode-num>
     <episode-num system="xmltv_ns">2025.21.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260801073500 +0000" stop="20260801080500 +0000" channel="mjh-abc-act">
     <title>Landline</title>
@@ -536,17 +523,19 @@
     <episode-num system="SxxExx">S2026E24</episode-num>
     <episode-num system="xmltv_ns">2025.23.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260801080500 +0000" stop="20260801083000 +0000" channel="mjh-abc-act">
     <title>Kath and Kim</title>
-    <sub-title>Fame</sub-title>
     <desc>Kim is sparing no expense to ensure Epponnee's first birthday party blows everyone out of the water. Kel wins a retailer's award but lets it go to his head, resulting in a punchup with Eric Bana.</desc>
     <category>Comedy</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/104042/image" />
     <episode-num system="SxxExx">S04E02</episode-num>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -559,6 +548,7 @@
     <episode-num system="SxxExx">S06E35</episode-num>
     <episode-num system="xmltv_ns">5.34.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -571,9 +561,6 @@
     <episode-num system="SxxExx">S2026E213</episode-num>
     <episode-num system="xmltv_ns">2025.212.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260801093000 +0000" stop="20260801101500 +0000" channel="mjh-abc-act">
     <title>Grantchester</title>
@@ -680,6 +667,10 @@
     <episode-num system="SxxExx">S2026E62</episode-num>
     <episode-num system="xmltv_ns">2025.61.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260801230000 +0000" stop="20260802000000 +0000" channel="mjh-abc-act">
     <title>Insiders</title>
@@ -689,10 +680,6 @@
     <episode-num system="SxxExx">S2026E27</episode-num>
     <episode-num system="xmltv_ns">2025.26.</episode-num>
     <episode-num system="original-air-date">2026-08-01</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260802000000 +0000" stop="20260802003000 +0000" channel="mjh-abc-act">
     <title>Offsiders</title>
@@ -718,14 +705,12 @@
   </programme>
   <programme start="20260802010000 +0000" stop="20260802013000 +0000" channel="mjh-abc-act">
     <title>Compass</title>
-    <sub-title>Faith, Power and Modi</sub-title>
     <desc>Indian PM Modi has once again visited Australia and ties between the two countries are strengthening. Hinduism is now the fastest growing religion here, but tensions rise between ancient beliefs and modern politics.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/135713/image" />
     <episode-num system="SxxExx">S40E21</episode-num>
     <episode-num system="xmltv_ns">39.20.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -759,6 +744,9 @@
     <episode-num system="SxxExx">S2026E25</episode-num>
     <episode-num system="xmltv_ns">2025.24.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260802033000 +0000" stop="20260802043000 +0000" channel="mjh-abc-act">
     <title>Monty Don s Rhineland Gardens</title>
@@ -799,26 +787,26 @@
   </programme>
   <programme start="20260802061000 +0000" stop="20260802070000 +0000" channel="mjh-abc-act">
     <title>Grand Designs UK</title>
+    <sub-title>Stratford</sub-title>
     <desc>Piers and Emma build a giant landmark 21st century castle. It'll have a tower, castellations, a moat, arrow-slits, loggia courtyards, and futuristic technology - the first new listed castle in the UK for 100 years.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/347733/image" />
     <episode-num system="SxxExx">S24E05</episode-num>
     <episode-num system="xmltv_ns">23.4.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
   <programme start="20260802070000 +0000" stop="20260802073000 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Wycheproof, VIC</sub-title>
     <desc>Back Roads heads to the smallest mountain in Australia for one of the country's craziest events. Lisa Millar checks out a unique race in Wycheproof, and discovers a community reviving an old idea while celebrating resilience.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
     <episode-num system="SxxExx">S12E16</episode-num>
     <episode-num system="xmltv_ns">11.15.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -838,7 +826,6 @@
   </programme>
   <programme start="20260802083000 +0000" stop="20260802090000 +0000" channel="mjh-abc-act">
     <title>Compass</title>
-    <sub-title>The Way We Care</sub-title>
     <desc>Over 40,000 children across Australia are forcibly removed from their families and placed into state care. Now a new movement has emerged to rebuild the entire sector placing human connection at its core.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/135713/image" />
@@ -857,9 +844,6 @@
     <episode-num system="SxxExx">S2026E214</episode-num>
     <episode-num system="xmltv_ns">2025.213.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260802093000 +0000" stop="20260802103000 +0000" channel="mjh-abc-act">
     <title>Race Around The World</title>
@@ -875,6 +859,7 @@
   </programme>
   <programme start="20260802103000 +0000" stop="20260802113000 +0000" channel="mjh-abc-act">
     <title>Treasure and Dirt</title>
+    <sub-title>The Dead Tree</sub-title>
     <desc>Nell gets into a tight spot and is leveraged by Phelan. Ivan has a strange encounter with The Third Row and he and Nell make an explosive discovery at the Dead Tree.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/23966038/image" />
@@ -993,6 +978,10 @@
     <episode-num system="SxxExx">S2026E153</episode-num>
     <episode-num system="xmltv_ns">2025.152.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260802230000 +0000" stop="20260802235500 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
@@ -1002,15 +991,21 @@
     <episode-num system="SxxExx">S2026E153</episode-num>
     <episode-num system="xmltv_ns">2025.152.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260802235500 +0000" stop="20260803004500 +0000" channel="mjh-abc-act">
     <title>Sue Perkins Big Adventure: Paris to Istanbul</title>
+    <sub-title>Paris</sub-title>
     <desc>In her trans-continental adventure, comedian Sue Perkins starts in Paris where she cycles, samples gourmet insects, enjoys absinthe, struts at Fashion Week, and embraces her inner burlesque dancer.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/10481735/image" />
     <episode-num system="SxxExx">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="original-air-date">2026-08-02</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1056,17 +1051,19 @@
     <episode-num system="SxxExx">S2026E25</episode-num>
     <episode-num system="xmltv_ns">2025.24.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Oodnadatta , Sa (part 1)</sub-title>
     <desc>Back Roads heads along the legendary Oodnadatta Track in outback South Australia. Heather Ewart begins her journey in the small town of Marree, where the Oodnadatta and Birdsville Tracks meet.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
     <episode-num system="SxxExx">S03E03</episode-num>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1098,7 +1095,6 @@
   </programme>
   <programme start="20260803060000 +0000" stop="20260803064000 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Republic Of Murdoch</sub-title>
     <desc>A dead body and a piece of parchment lead Murdoch and Crabtree to follow a suspect named Jacob Doyle to his home in Newfoundland.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
@@ -1117,6 +1113,7 @@
     <episode-num system="SxxExx">S10E05</episode-num>
     <episode-num system="xmltv_ns">9.4.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1143,6 +1140,7 @@
     <episode-num system="SxxExx">S04E01</episode-num>
     <episode-num system="xmltv_ns">3.0.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1155,9 +1153,6 @@
     <episode-num system="SxxExx">S2026E215</episode-num>
     <episode-num system="xmltv_ns">2025.214.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260803093000 +0000" stop="20260803100000 +0000" channel="mjh-abc-act">
     <title>7.30</title>
@@ -1167,19 +1162,19 @@
     <episode-num system="SxxExx">S2026E121</episode-num>
     <episode-num system="xmltv_ns">2025.120.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260803100000 +0000" stop="20260803103000 +0000" channel="mjh-abc-act">
     <title>Australian Story</title>
+    <sub-title>Blood On The Tracks</sub-title>
     <desc>When teenager Mark Haines was discovered dead on train tracks near the NSW town of Tamworth, his uncle was convinced it was foul play. Four decades later, a new inquest reveals fresh evidence and a cover-up.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/132026/image" />
     <episode-num system="SxxExx">S2026E23</episode-num>
     <episode-num system="xmltv_ns">2025.22.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260803103000 +0000" stop="20260803112500 +0000" channel="mjh-abc-act">
     <title>Four Corners</title>
@@ -1198,9 +1193,6 @@
     <episode-num system="SxxExx">S2026E26</episode-num>
     <episode-num system="xmltv_ns">2025.25.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
   </programme>
   <programme start="20260803114500 +0000" stop="20260803121000 +0000" channel="mjh-abc-act">
     <title>If You're Listening</title>
@@ -1218,12 +1210,17 @@
   </programme>
   <programme start="20260803121000 +0000" stop="20260803124000 +0000" channel="mjh-abc-act">
     <title>Foreign Correspondent</title>
+    <sub-title>Norway's New Oil</sub-title>
     <desc>Norway is the biggest salmon producer in the world. It invented the farmed salmon industry and built it into an 18-billion-dollar business. But meeting the growing global appetite for salmon doesn't come without consequences.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131248/image" />
     <episode-num system="SxxExx">S2026E13</episode-num>
     <episode-num system="xmltv_ns">2025.12.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260803124000 +0000" stop="20260803125500 +0000" channel="mjh-abc-act">
     <title>ABC Late News</title>
@@ -1233,9 +1230,6 @@
     <episode-num system="SxxExx">S2026E153</episode-num>
     <episode-num system="xmltv_ns">2025.152.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260803125500 +0000" stop="20260803131500 +0000" channel="mjh-abc-act">
     <title>The Business</title>
@@ -1252,14 +1246,12 @@
   </programme>
   <programme start="20260803131500 +0000" stop="20260803135500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Republic Of Murdoch</sub-title>
     <desc>A dead body and a piece of parchment lead Murdoch and Crabtree to follow a suspect named Jacob Doyle to his home in Newfoundland.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
     <episode-num system="SxxExx">S07E08</episode-num>
     <episode-num system="xmltv_ns">6.7.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1272,6 +1264,7 @@
     <episode-num system="SxxExx">S10E05</episode-num>
     <episode-num system="xmltv_ns">9.4.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1290,12 +1283,14 @@
   </programme>
   <programme start="20260803164500 +0000" stop="20260803174500 +0000" channel="mjh-abc-act">
     <title>Gardening Australia</title>
+    <sub-title>Easter Special</sub-title>
     <desc>Costa is bowled over by terrific turf; Clarence traces a green web of gardens; Hannah tours a downsized productive patch; Jerry shares bulbs for the subtropics; Millie renovates a wheelbarrow; we meet bird-loving ecologist.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131270/image" />
     <episode-num system="SxxExx">S34E08</episode-num>
     <episode-num system="xmltv_ns">33.7.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -1336,10 +1331,6 @@
     <episode-num system="SxxExx">S2026E121</episode-num>
     <episode-num system="xmltv_ns">2025.120.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260803200000 +0000" stop="20260803230000 +0000" channel="mjh-abc-act">
     <title>ABC News Breakfast</title>
@@ -1349,6 +1340,10 @@
     <episode-num system="SxxExx">S2026E154</episode-num>
     <episode-num system="xmltv_ns">2025.153.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260803230000 +0000" stop="20260804000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
@@ -1358,15 +1353,24 @@
     <episode-num system="SxxExx">S2026E154</episode-num>
     <episode-num system="xmltv_ns">2025.153.</episode-num>
     <episode-num system="original-air-date">2026-08-03</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="mjh-abc-act">
     <title>Australian Story</title>
+    <sub-title>Blood On The Tracks</sub-title>
     <desc>When teenager Mark Haines was discovered dead on train tracks near the NSW town of Tamworth, his uncle was convinced it was foul play. Four decades later, a new inquest reveals fresh evidence and a cover-up.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/132026/image" />
     <episode-num system="SxxExx">S2026E23</episode-num>
     <episode-num system="xmltv_ns">2025.22.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260804003000 +0000" stop="20260804010000 +0000" channel="mjh-abc-act">
     <title>Kitchen Cabinet</title>
@@ -1415,14 +1419,12 @@
   </programme>
   <programme start="20260804035500 +0000" stop="20260804042500 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Oodnadatta, Sa (part 2)</sub-title>
     <desc>Heather continues along the Oodnadatta Track, SA. She hitches a lift with 'Wally' the truck-driver who delivers essential supplies; meets the Pink Roadhouse owner; as well as the workers at an isolated cattle station.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
     <episode-num system="SxxExx">S03E04</episode-num>
     <episode-num system="xmltv_ns">2.3.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1454,7 +1456,6 @@
   </programme>
   <programme start="20260804055500 +0000" stop="20260804064000 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Midnight Train To Kingston</sub-title>
     <desc>Detective Murdoch accompanies convicted murderer James Gillies to his hanging.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
@@ -1473,6 +1474,7 @@
     <episode-num system="SxxExx">S11E01</episode-num>
     <episode-num system="xmltv_ns">10.0.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -1499,6 +1501,7 @@
     <episode-num system="SxxExx">S04E02</episode-num>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1511,9 +1514,6 @@
     <episode-num system="SxxExx">S2026E216</episode-num>
     <episode-num system="xmltv_ns">2025.215.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260804093000 +0000" stop="20260804100000 +0000" channel="mjh-abc-act">
     <title>7.30</title>
@@ -1523,19 +1523,19 @@
     <episode-num system="SxxExx">S2026E122</episode-num>
     <episode-num system="xmltv_ns">2025.121.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260804100000 +0000" stop="20260804103000 +0000" channel="mjh-abc-act">
     <title>Foreign Correspondent</title>
+    <sub-title>The Geisha of Tokyo</sub-title>
     <desc>In Japan the geisha community is a secretive and closed world but with rare, intimate access we meet Tokyo's most celebrated geisha and young women sacrificing ordinary freedoms to keep an ancient and iconic artform alive.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131248/image" />
     <episode-num system="SxxExx">S2026E14</episode-num>
     <episode-num system="xmltv_ns">2025.13.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260804103000 +0000" stop="20260804110500 +0000" channel="mjh-abc-act">
     <title>Kitchen Cabinet</title>
@@ -1563,14 +1563,12 @@
   </programme>
   <programme start="20260804115000 +0000" stop="20260804122000 +0000" channel="mjh-abc-act">
     <title>Compass</title>
-    <sub-title>The Way We Care</sub-title>
     <desc>Over 40,000 children across Australia are forcibly removed from their families and placed into state care. Now a new movement has emerged to rebuild the entire sector placing human connection at its core.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/135713/image" />
     <episode-num system="SxxExx">S40E22</episode-num>
     <episode-num system="xmltv_ns">39.21.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1583,9 +1581,6 @@
     <episode-num system="SxxExx">S2026E154</episode-num>
     <episode-num system="xmltv_ns">2025.153.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260804123500 +0000" stop="20260804125000 +0000" channel="mjh-abc-act">
     <title>The Business</title>
@@ -1617,21 +1612,15 @@
     <episode-num system="SxxExx">S2026E26</episode-num>
     <episode-num system="xmltv_ns">2025.25.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <previously-shown />
-    <rating>
-      <value>M</value>
-    </rating>
   </programme>
   <programme start="20260804140000 +0000" stop="20260804144500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Midnight Train To Kingston</sub-title>
     <desc>Detective Murdoch accompanies convicted murderer James Gillies to his hanging.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
     <episode-num system="SxxExx">S07E09</episode-num>
     <episode-num system="xmltv_ns">6.8.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
@@ -1644,6 +1633,7 @@
     <episode-num system="SxxExx">S11E01</episode-num>
     <episode-num system="xmltv_ns">10.0.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -1668,6 +1658,7 @@
     <episode-num system="SxxExx">S34E09</episode-num>
     <episode-num system="xmltv_ns">33.8.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -1708,10 +1699,6 @@
     <episode-num system="SxxExx">S2026E122</episode-num>
     <episode-num system="xmltv_ns">2025.121.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260804200000 +0000" stop="20260804230000 +0000" channel="mjh-abc-act">
     <title>ABC News Breakfast</title>
@@ -1721,6 +1708,10 @@
     <episode-num system="SxxExx">S2026E155</episode-num>
     <episode-num system="xmltv_ns">2025.154.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260804230000 +0000" stop="20260805000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
@@ -1730,6 +1721,10 @@
     <episode-num system="SxxExx">S2026E155</episode-num>
     <episode-num system="xmltv_ns">2025.154.</episode-num>
     <episode-num system="original-air-date">2026-08-04</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260805000000 +0000" stop="20260805005500 +0000" channel="mjh-abc-act">
     <title>Four Corners</title>
@@ -1742,23 +1737,26 @@
   </programme>
   <programme start="20260805005500 +0000" stop="20260805012500 +0000" channel="mjh-abc-act">
     <title>Foreign Correspondent</title>
+    <sub-title>The Geisha of Tokyo</sub-title>
     <desc>In Japan the geisha community is a secretive and closed world but with rare, intimate access we meet Tokyo's most celebrated geisha and young women sacrificing ordinary freedoms to keep an ancient and iconic artform alive.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131248/image" />
     <episode-num system="SxxExx">S2026E14</episode-num>
     <episode-num system="xmltv_ns">2025.13.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260805012500 +0000" stop="20260805020000 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Wycheproof, VIC</sub-title>
     <desc>Back Roads heads to the smallest mountain in Australia for one of the country's craziest events. Lisa Millar checks out a unique race in Wycheproof, and discovers a community reviving an old idea while celebrating resilience.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
     <episode-num system="SxxExx">S12E16</episode-num>
     <episode-num system="xmltv_ns">11.15.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1789,21 +1787,15 @@
     <episode-num system="SxxExx">S2026E26</episode-num>
     <episode-num system="xmltv_ns">2025.25.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <previously-shown />
-    <rating>
-      <value>M</value>
-    </rating>
   </programme>
   <programme start="20260805040000 +0000" stop="20260805043000 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Robe, Sa</sub-title>
     <desc>Robe, SA, is a seaside safe-haven known for helping others and having a generosity of spirit. Local farming families offer their holiday houses to war veterans and give them a free weekend in their stunning town.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
     <episode-num system="SxxExx">S03E05</episode-num>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1835,7 +1827,6 @@
   </programme>
   <programme start="20260805060000 +0000" stop="20260805064500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Murdoch In Ragtime</sub-title>
     <desc>When the lead singer of a travelling ragtime group turns up dead, Detective Murdoch looks to the group's complicated past for answers.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
@@ -1854,6 +1845,7 @@
     <episode-num system="SxxExx">S11E02</episode-num>
     <episode-num system="xmltv_ns">10.1.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -1880,6 +1872,7 @@
     <episode-num system="SxxExx">S04E03</episode-num>
     <episode-num system="xmltv_ns">3.2.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -1892,9 +1885,6 @@
     <episode-num system="SxxExx">S2026E217</episode-num>
     <episode-num system="xmltv_ns">2025.216.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="mjh-abc-act">
     <title>7.30</title>
@@ -1904,10 +1894,6 @@
     <episode-num system="SxxExx">S2026E123</episode-num>
     <episode-num system="xmltv_ns">2025.122.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="mjh-abc-act">
     <title>Hard Quiz</title>
@@ -1923,6 +1909,7 @@
   </programme>
   <programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="mjh-abc-act">
     <title>Spicks and Specks</title>
+    <sub-title>Zoe Coombs Marr, Rhonda Burchmore, Zion Garcia and Brett Blake</sub-title>
     <desc>Discussing the importance of The Wiggles in Australian cinema are both kinds of guests, Country (Zoe Coombs Marr) and Western (Rhonda Burchmore, Zion Garcia, Brett Blake). Robert Forster performs one of Alan's favourites.</desc>
     <category>Music</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/176223/image" />
@@ -1935,7 +1922,6 @@
   </programme>
   <programme start="20260805110000 +0000" stop="20260805112500 +0000" channel="mjh-abc-act">
     <title>New Zealand Spy</title>
-    <sub-title>The Informant</sub-title>
     <desc>Ignoring Boss's orders to rest and recuperate, Michael follows a lead to a Marlborough vineyard. Meanwhile, Sue teams up with a British spy in hope of uncovering valuable information.</desc>
     <category>Comedy</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/24011355/image" />
@@ -1967,9 +1953,6 @@
     <episode-num system="SxxExx">S2026E155</episode-num>
     <episode-num system="xmltv_ns">2025.154.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260805124500 +0000" stop="20260805130000 +0000" channel="mjh-abc-act">
     <title>The Business</title>
@@ -1986,26 +1969,26 @@
   </programme>
   <programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="mjh-abc-act">
     <title>Treasure and Dirt</title>
+    <sub-title>The Dead Tree</sub-title>
     <desc>Nell gets into a tight spot and is leveraged by Phelan. Ivan has a strange encounter with The Third Row and he and Nell make an explosive discovery at the Dead Tree.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/23966038/image" />
     <episode-num system="SxxExx">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
   </programme>
   <programme start="20260805140000 +0000" stop="20260805144500 +0000" channel="mjh-abc-act">
     <title>Murdoch Mysteries</title>
-    <sub-title>Murdoch In Ragtime</sub-title>
     <desc>When the lead singer of a travelling ragtime group turns up dead, Detective Murdoch looks to the group's complicated past for answers.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/227316/image" />
     <episode-num system="SxxExx">S07E10</episode-num>
     <episode-num system="xmltv_ns">6.9.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
@@ -2018,6 +2001,7 @@
     <episode-num system="SxxExx">S11E02</episode-num>
     <episode-num system="xmltv_ns">10.1.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2042,6 +2026,7 @@
     <episode-num system="SxxExx">S34E10</episode-num>
     <episode-num system="xmltv_ns">33.9.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2082,10 +2067,6 @@
     <episode-num system="SxxExx">S2026E123</episode-num>
     <episode-num system="xmltv_ns">2025.122.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260805200000 +0000" stop="20260805230000 +0000" channel="mjh-abc-act">
     <title>News Breakfast</title>
@@ -2095,6 +2076,10 @@
     <episode-num system="SxxExx">S2026E156</episode-num>
     <episode-num system="xmltv_ns">2025.155.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260805230000 +0000" stop="20260806000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
@@ -2104,6 +2089,10 @@
     <episode-num system="SxxExx">S2026E156</episode-num>
     <episode-num system="xmltv_ns">2025.155.</episode-num>
     <episode-num system="original-air-date">2026-08-05</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260806000000 +0000" stop="20260806003000 +0000" channel="mjh-abc-act">
     <title>Hard Quiz</title>
@@ -2113,32 +2102,33 @@
     <episode-num system="SxxExx">S11E11</episode-num>
     <episode-num system="xmltv_ns">10.10.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
   <programme start="20260806003000 +0000" stop="20260806010000 +0000" channel="mjh-abc-act">
     <title>Spicks and Specks</title>
+    <sub-title>Zoe Coombs Marr, Rhonda Burchmore, Zion Garcia and Brett Blake</sub-title>
     <desc>Discussing the importance of The Wiggles in Australian cinema are both kinds of guests, Country (Zoe Coombs Marr) and Western (Rhonda Burchmore, Zion Garcia, Brett Blake). Robert Forster performs one of Alan's favourites.</desc>
     <category>Music</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/176223/image" />
     <episode-num system="SxxExx">S13E05</episode-num>
     <episode-num system="xmltv_ns">12.4.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
   <programme start="20260806010000 +0000" stop="20260806012500 +0000" channel="mjh-abc-act">
     <title>New Zealand Spy</title>
-    <sub-title>The Informant</sub-title>
     <desc>Ignoring Boss's orders to rest and recuperate, Michael follows a lead to a Marlborough vineyard. Meanwhile, Sue teams up with a British spy in hope of uncovering valuable information.</desc>
     <category>Comedy</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/24011355/image" />
     <episode-num system="SxxExx">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
-    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
@@ -2180,14 +2170,12 @@
   </programme>
   <programme start="20260806034500 +0000" stop="20260806041500 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Canowindra, Nsw</sub-title>
     <desc>Canowindra might be known as the hot-air ballooning capital of Australia, but there's plenty more going for this town. The Canowindra community is looking to reinvent its future, doing big gestures of kindness along the way.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
     <episode-num system="SxxExx">S03E06</episode-num>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
-    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2238,6 +2226,7 @@
     <episode-num system="SxxExx">S11E03</episode-num>
     <episode-num system="xmltv_ns">10.2.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2264,6 +2253,7 @@
     <episode-num system="SxxExx">S04E04</episode-num>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>PG</value>
     </rating>
@@ -2276,9 +2266,6 @@
     <episode-num system="SxxExx">S2026E218</episode-num>
     <episode-num system="xmltv_ns">2025.217.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260806093000 +0000" stop="20260806100000 +0000" channel="mjh-abc-act">
     <title>7.30</title>
@@ -2288,14 +2275,9 @@
     <episode-num system="SxxExx">S2026E124</episode-num>
     <episode-num system="xmltv_ns">2025.123.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260806100000 +0000" stop="20260806103000 +0000" channel="mjh-abc-act">
     <title>Back Roads</title>
-    <sub-title>Coonamble, NSW</sub-title>
     <desc>Presenter Lisa Millar has a front row seat to a once in a lifetime performance by the people of Coonamble in NSW. But who will be brave enough to share their life-changing stories on stage?</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image" />
@@ -2308,6 +2290,7 @@
   </programme>
   <programme start="20260806103000 +0000" stop="20260806111500 +0000" channel="mjh-abc-act">
     <title>Grand Designs UK</title>
+    <sub-title>Wirral Revisited</sub-title>
     <desc>In 2015, Stuart and Rosie from the Wirral tried to turn their '60s bungalow into a slick 21st-century family home for just 175,000 pounds. Nine years later, Kevin is back to see if the house is finally complete.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/347733/image" />
@@ -2320,12 +2303,14 @@
   </programme>
   <programme start="20260806111500 +0000" stop="20260806122000 +0000" channel="mjh-abc-act">
     <title>Treasure and Dirt</title>
+    <sub-title>The Dead Tree</sub-title>
     <desc>Nell gets into a tight spot and is leveraged by Phelan. Ivan has a strange encounter with The Third Row and he and Nell make an explosive discovery at the Dead Tree.</desc>
     <category>Drama</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/23966038/image" />
     <episode-num system="SxxExx">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>M</value>
     </rating>
@@ -2338,9 +2323,6 @@
     <episode-num system="SxxExx">S2026E156</episode-num>
     <episode-num system="xmltv_ns">2025.155.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260806123500 +0000" stop="20260806125000 +0000" channel="mjh-abc-act">
     <title>The Business</title>
@@ -2377,6 +2359,7 @@
     <episode-num system="SxxExx">S11E03</episode-num>
     <episode-num system="xmltv_ns">10.2.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2401,6 +2384,7 @@
     <episode-num system="SxxExx">S34E11</episode-num>
     <episode-num system="xmltv_ns">33.10.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
     <rating>
       <value>G</value>
     </rating>
@@ -2441,10 +2425,6 @@
     <episode-num system="SxxExx">S2026E124</episode-num>
     <episode-num system="xmltv_ns">2025.123.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260806200000 +0000" stop="20260806230000 +0000" channel="mjh-abc-act">
     <title>News Breakfast</title>
@@ -2454,6 +2434,10 @@
     <episode-num system="SxxExx">S2026E157</episode-num>
     <episode-num system="xmltv_ns">2025.156.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260806230000 +0000" stop="20260807000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
@@ -2463,44 +2447,21 @@
     <episode-num system="SxxExx">S2026E157</episode-num>
     <episode-num system="xmltv_ns">2025.156.</episode-num>
     <episode-num system="original-air-date">2026-08-06</episode-num>
+    <previously-shown />
+    <rating>
+      <value>CTC</value>
+    </rating>
   </programme>
   <programme start="20260807000000 +0000" stop="20260807003000 +0000" channel="mjh-abc-act">
     <title>Compass</title>
-    <sub-title>The Way We Care</sub-title>
     <desc>Over 40,000 children across Australia are forcibly removed from their families and placed into state care. Now a new movement has emerged to rebuild the entire sector placing human connection at its core.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/135713/image" />
     <episode-num system="SxxExx">S40E22</episode-num>
     <episode-num system="xmltv_ns">39.21.</episode-num>
     <episode-num system="original-air-date">2026-08-07</episode-num>
-    <previously-shown />
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260730140500 +0000" stop="20260730150400 +0000" channel="mjh-channel-9-nsw">
-    <title>Tipping Point</title>
-    <desc>Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/331700/image" />
-    <episode-num system="SxxExx">S14E57</episode-num>
-    <episode-num system="xmltv_ns">13.56.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <previously-shown />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260730150400 +0000" stop="20260730153800 +0000" channel="mjh-channel-9-nsw">
-    <title>Next Stop</title>
-    <desc>A quick dive into the sights, sounds, history and flavours of Edinburgh, Ireland.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/435590/image" />
-    <episode-num system="SxxExx">S01E17</episode-num>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20260730153800 +0000" stop="20260730160600 +0000" channel="mjh-channel-9-nsw">
@@ -4760,15 +4721,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260730140000 +0000" stop="20260730160000 +0000" channel="mjh-seven-syd">
-    <title>Glasgow 2026 Commonwealth Games</title>
-    <desc>Australia continues their quest for back-to-back Commonwealth Games gold as the Diamonds face Northern Ireland on the netball court.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/23450830/image" />
-    <episode-num system="SxxExx">S26E50</episode-num>
-    <episode-num system="xmltv_ns">25.49.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-  </programme>
   <programme start="20260730160000 +0000" stop="20260730180000 +0000" channel="mjh-seven-syd">
     <title>Glasgow 2026 Commonwealth Games</title>
     <desc>Australia's fastest man Lachlan Kennedy lines up against Calab Law and Aidan Murphy in the Men's 200m Semi Finals, before Peter Bol continues his campaign for gold in the Men's 800m Semi Final.</desc>
@@ -6348,42 +6300,6 @@
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20260730140446 +0000" stop="20260730143413 +0000" channel="mjh-10-nsw">
-    <title>Home Shopping</title>
-    <desc>Synopsis</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image" />
-    <episode-num system="SxxExx">S2019E301</episode-num>
-    <episode-num system="xmltv_ns">2018.300.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-  </programme>
-  <programme start="20260730143413 +0000" stop="20260730150338 +0000" channel="mjh-10-nsw">
-    <title>Home Shopping</title>
-    <desc>Synopsis</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image" />
-    <episode-num system="SxxExx">S2019E302</episode-num>
-    <episode-num system="xmltv_ns">2018.301.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-  </programme>
-  <programme start="20260730150338 +0000" stop="20260730153258 +0000" channel="mjh-10-nsw">
-    <title>Home Shopping</title>
-    <desc>Synopsis</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image" />
-    <episode-num system="SxxExx">S2019E303</episode-num>
-    <episode-num system="xmltv_ns">2018.302.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-  </programme>
-  <programme start="20260730153258 +0000" stop="20260730160238 +0000" channel="mjh-10-nsw">
-    <title>Home Shopping</title>
-    <desc>Synopsis</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image" />
-    <episode-num system="SxxExx">S2019E304</episode-num>
-    <episode-num system="xmltv_ns">2018.303.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
   </programme>
   <programme start="20260730160238 +0000" stop="20260730163148 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
@@ -9409,32 +9325,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260730133500 +0000" stop="20260730143500 +0000" channel="mjh-sbs-sbst">
-    <title>Bonn</title>
-    <sub-title>Bonn Series 1 Ep 2</sub-title>
-    <desc>Toni witnesses a war criminal's acquittal, deepening her mistrust of boss Gehlen; Toni is drawn closer to agent Wolfgang, who unveils secrets and recruits her; Toni's mother's past resurfaces.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4717738/image" />
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20260730143500 +0000" stop="20260730153500 +0000" channel="mjh-sbs-sbst">
-    <title>Bonn</title>
-    <sub-title>Bonn Series 1 Ep 3</sub-title>
-    <desc>At the interior ministry, tensions rise as John faces questions about Wolfgang's actions with Heimann; Wolfgang negotiates with Mossad to decode the Heimann List.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4717738/image" />
-    <episode-num system="SxxExx">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20260730153500 +0000" stop="20260730163000 +0000" channel="mjh-sbs-sbst">
     <title>Bonn</title>
     <sub-title>Bonn Series 1 Ep 4</sub-title>
@@ -12225,71 +12115,6 @@
     <episode-num system="SxxExx">S2026E807</episode-num>
     <episode-num system="xmltv_ns">2025.806.</episode-num>
     <episode-num system="original-air-date">2026-08-07</episode-num>
-  </programme>
-  <programme start="20260730140000 +0000" stop="20260730141500 +0000" channel="mjh-abc-news">
-    <title>ABC Late News</title>
-    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/369217/image" />
-    <episode-num system="SxxExx">S2026E151</episode-num>
-    <episode-num system="xmltv_ns">2025.150.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <rating>
-      <value>CTC</value>
-    </rating>
-  </programme>
-  <programme start="20260730141500 +0000" stop="20260730143000 +0000" channel="mjh-abc-news">
-    <title>The Business</title>
-    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/277532/image" />
-    <episode-num system="SxxExx">S2026E104</episode-num>
-    <episode-num system="xmltv_ns">2025.103.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
-  </programme>
-  <programme start="20260730143000 +0000" stop="20260730150000 +0000" channel="mjh-abc-news">
-    <title>Project Wild</title>
-    <sub-title>Cambodia</sub-title>
-    <desc>Dr Ann Jones travels through the Indo-Pacific region to find the dedicated people bringing our planet's amazing animals, plants and ecosystems back from the brink. This time she visits biodiversity-rich Cambodia.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7157968/image" />
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <previously-shown />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260730150000 +0000" stop="20260730153000 +0000" channel="mjh-abc-news">
-    <title>ABC News Overnight</title>
-    <desc>Know the latest on the day's top stories, as Craig Smart brings you a comprehensive roundup of the news of the day. ABC News has reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/369764/image" />
-    <episode-num system="SxxExx">S2026E151</episode-num>
-    <episode-num system="xmltv_ns">2025.150.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
-  </programme>
-  <programme start="20260730153000 +0000" stop="20260730160000 +0000" channel="mjh-abc-news">
-    <title>Landline</title>
-    <desc>Fertiliser supplement made from recycled glass; Western Queensland graziers dealing with a changing climate; Nuffield Scholarships promoting agricultural innovation and excellence for 75 years; plus Heywire winner Fabian.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131336/image" />
-    <episode-num system="SxxExx">S2026E24</episode-num>
-    <episode-num system="xmltv_ns">2025.23.</episode-num>
-    <episode-num system="original-air-date">2026-07-30</episode-num>
-    <previously-shown />
-    <rating>
-      <value>CTC</value>
-    </rating>
   </programme>
   <programme start="20260730160000 +0000" stop="20260730162900 +0000" channel="mjh-abc-news">
     <title>DW News</title>
