@@ -31,15 +31,6 @@
     <lcn>24</lcn>
     <icon src="https://i.mjh.nz/.images/abc-news.png" />
   </channel>
-  <programme start="20260817200000 +0000" stop="20260817230000 +0000" channel="mjh-abc-act">
-    <title>News Breakfast</title>
-    <sub-title>Tuesday 18 August 2026</sub-title>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/719bfe0060c8a8d61591/image" />
-    <episode-num system="SxxExx">S2026E164</episode-num>
-    <episode-num system="xmltv_ns">2025.163.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-  </programme>
   <programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
     <sub-title>Tuesday 18 August 2026</sub-title>
@@ -219,6 +210,9 @@
     <episode-num system="SxxExx">S08E05</episode-num>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260818110000 +0000" stop="20260818115500 +0000" channel="mjh-abc-act">
     <title>Portrait Artist Of The Year</title>
@@ -1397,6 +1391,9 @@
     <episode-num system="SxxExx">S08E05</episode-num>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <episode-num system="original-air-date">2026-08-22</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260822070500 +0000" stop="20260822073500 +0000" channel="mjh-abc-act">
     <title>Australian Story</title>
@@ -1873,15 +1870,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260817192900 +0000" stop="20260817230000 +0000" channel="mjh-channel-9-nsw">
-    <title>Today</title>
-    <sub-title>Tuesday 18 August 2026</sub-title>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/548f388c4804e8118852/image" />
-    <episode-num system="SxxExx">S2026E164</episode-num>
-    <episode-num system="xmltv_ns">2025.163.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-  </programme>
   <programme start="20260817230000 +0000" stop="20260818013000 +0000" channel="mjh-channel-9-nsw">
     <title>Today Extra</title>
     <sub-title>Episode 143</sub-title>
@@ -2059,7 +2047,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818145900 +0000" stop="20260818153500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260818145900 +0000" stop="20260818153000 +0000" channel="mjh-channel-9-nsw">
     <title>Golfbarons</title>
     <sub-title>The National</sub-title>
     <category>Sports</category>
@@ -2069,6 +2057,18 @@
     <episode-num system="original-air-date">2026-08-18</episode-num>
     <rating>
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260818153000 +0000" stop="20260818153500 +0000" channel="mjh-channel-9-nsw">
+    <title>Explore Moments</title>
+    <sub-title>Core Cider</sub-title>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/6a0d38d73bce15fab771/image" />
+    <episode-num system="SxxExx">S2026E36</episode-num>
+    <episode-num system="xmltv_ns">2025.35.</episode-num>
+    <episode-num system="original-air-date">2026-08-18</episode-num>
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20260818153500 +0000" stop="20260818160400 +0000" channel="mjh-channel-9-nsw">
@@ -2191,7 +2191,7 @@
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819020000 +0000" stop="20260819030000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819020000 +0000" stop="20260819030900 +0000" channel="mjh-channel-9-nsw">
     <title>The Block</title>
     <sub-title>Main Bedroom &amp; Walk-In-Robe Week</sub-title>
     <category>Special Interest</category>
@@ -2203,7 +2203,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819030900 +0000" stop="20260819040200 +0000" channel="mjh-channel-9-nsw">
     <title>Ski Rescue Down Under</title>
     <sub-title>Episode 2</sub-title>
     <category>Special Interest</category>
@@ -2215,7 +2215,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819040200 +0000" stop="20260819045900 +0000" channel="mjh-channel-9-nsw">
     <title>Pointless</title>
     <sub-title>Episode 13</sub-title>
     <category>Special Interest</category>
@@ -2227,7 +2227,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819045900 +0000" stop="20260819060000 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point</title>
     <sub-title>Episode 71</sub-title>
     <category>Special Interest</category>
@@ -2239,7 +2239,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819060000 +0000" stop="20260819070000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819060000 +0000" stop="20260819065700 +0000" channel="mjh-channel-9-nsw">
     <title>9News Afternoon</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
     <category>News</category>
@@ -2248,9 +2248,9 @@
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819070000 +0000" stop="20260819080000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819065700 +0000" stop="20260819075900 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point Australia</title>
-    <sub-title>Episode 104 of Season 3</sub-title>
+    <sub-title>Episode 104</sub-title>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/49772ebf271df5badd93/image" />
     <episode-num system="SxxExx">S03E104</episode-num>
@@ -2260,7 +2260,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819080000 +0000" stop="20260819090000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819075900 +0000" stop="20260819090000 +0000" channel="mjh-channel-9-nsw">
     <title>9News</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
     <category>News</category>
@@ -2269,7 +2269,7 @@
     <episode-num system="xmltv_ns">3.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819090000 +0000" stop="20260819093000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819090000 +0000" stop="20260819093100 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
     <category>News</category>
@@ -2278,7 +2278,7 @@
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819093000 +0000" stop="20260819104000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819093100 +0000" stop="20260819104400 +0000" channel="mjh-channel-9-nsw">
     <title>The Block</title>
     <sub-title>Main Bedroom &amp; Walk-In-Robe Week</sub-title>
     <category>Special Interest</category>
@@ -2290,7 +2290,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819104000 +0000" stop="20260819115500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819104400 +0000" stop="20260819120000 +0000" channel="mjh-channel-9-nsw">
     <title>Banjo And Ro's Grand Island Hotel</title>
     <sub-title>Resources / Mother Nature</sub-title>
     <category>Special Interest</category>
@@ -2302,7 +2302,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819115500 +0000" stop="20260819122500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819120000 +0000" stop="20260819122900 +0000" channel="mjh-channel-9-nsw">
     <title>9News Late</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
     <category>News</category>
@@ -2311,7 +2311,7 @@
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819122500 +0000" stop="20260819132500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819122900 +0000" stop="20260819132300 +0000" channel="mjh-channel-9-nsw">
     <title>The Teacher - Body In The Lake</title>
     <sub-title>Episode 3</sub-title>
     <category>Drama</category>
@@ -2323,7 +2323,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819132500 +0000" stop="20260819141500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819132300 +0000" stop="20260819140700 +0000" channel="mjh-channel-9-nsw">
     <title>Accused: Guilty Or Innocent?</title>
     <sub-title>One Punch Assault or Self-Defence</sub-title>
     <category>Special Interest</category>
@@ -2335,7 +2335,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819141500 +0000" stop="20260819150500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819140700 +0000" stop="20260819150700 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point</title>
     <sub-title>Episode 71</sub-title>
     <category>Special Interest</category>
@@ -2347,7 +2347,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819150500 +0000" stop="20260819153000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819150700 +0000" stop="20260819153700 +0000" channel="mjh-channel-9-nsw">
     <title>Destination WA</title>
     <sub-title>Episode 26</sub-title>
     <category>Special Interest</category>
@@ -2359,7 +2359,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819153000 +0000" stop="20260819160000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819153700 +0000" stop="20260819160600 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Handy Saw</sub-title>
     <category>Special Interest</category>
@@ -2371,7 +2371,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819160000 +0000" stop="20260819163000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819160600 +0000" stop="20260819163400 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>TEVO Heater</sub-title>
     <category>Special Interest</category>
@@ -2383,7 +2383,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819163000 +0000" stop="20260819170000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819163400 +0000" stop="20260819170300 +0000" channel="mjh-channel-9-nsw">
     <title>Global Shop</title>
     <sub-title>Pocket Hose Copper Head</sub-title>
     <category>Special Interest</category>
@@ -2395,7 +2395,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819170000 +0000" stop="20260819173000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819170300 +0000" stop="20260819173100 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Renovator Better Grip</sub-title>
     <category>Special Interest</category>
@@ -2407,7 +2407,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819173000 +0000" stop="20260819180000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819173100 +0000" stop="20260819180000 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>TEVO Heater</sub-title>
     <category>Special Interest</category>
@@ -2419,7 +2419,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819180000 +0000" stop="20260819183000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819180000 +0000" stop="20260819183200 +0000" channel="mjh-channel-9-nsw">
     <title>Skippy</title>
     <sub-title>Treasure Hunt</sub-title>
     <category>Kids &amp; Family</category>
@@ -2431,7 +2431,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819183000 +0000" stop="20260819190000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819183200 +0000" stop="20260819190000 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
     <category>News</category>
@@ -2440,7 +2440,7 @@
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819190000 +0000" stop="20260819193000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819190000 +0000" stop="20260819192900 +0000" channel="mjh-channel-9-nsw">
     <title>Today Early News</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <category>News</category>
@@ -2449,7 +2449,7 @@
     <episode-num system="xmltv_ns">2025.165.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819193000 +0000" stop="20260819230000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260819192900 +0000" stop="20260819230000 +0000" channel="mjh-channel-9-nsw">
     <title>Today</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <category>News</category>
@@ -2538,7 +2538,7 @@
   </programme>
   <programme start="20260820070000 +0000" stop="20260820080000 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point Australia</title>
-    <sub-title>Episode 41 of Season 3</sub-title>
+    <sub-title>Episode 41</sub-title>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/49772ebf271df5badd93/image" />
     <episode-num system="SxxExx">S03E41</episode-num>
@@ -3310,7 +3310,7 @@
     <episode-num system="original-air-date">2026-08-22</episode-num>
   </programme>
   <programme start="20260823000000 +0000" stop="20260823020000 +0000" channel="mjh-channel-9-nsw">
-    <title>Sunday Footy Show</title>
+    <title>Sunday Footy Show - AFL</title>
     <sub-title>Episode 25</sub-title>
     <category>Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/2ca901e5ebdc4016abad/image" />
@@ -3900,7 +3900,7 @@
     <episode-num system="xmltv_ns">25.142.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819033135 +0000" stop="20260819043115 +0000" channel="mjh-seven-syd">
+  <programme start="20260819033135 +0000" stop="20260819043110 +0000" channel="mjh-seven-syd">
     <title>Bridge Of Lies: Celebrity Specials</title>
     <sub-title>Bridge Of Lies: Celebrity Specials</sub-title>
     <category>Special Interest</category>
@@ -3912,7 +3912,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819043115 +0000" stop="20260819053015 +0000" channel="mjh-seven-syd">
+  <programme start="20260819043110 +0000" stop="20260819053005 +0000" channel="mjh-seven-syd">
     <title>Bridge Of Lies</title>
     <sub-title>Episode 14</sub-title>
     <category>Special Interest</category>
@@ -3924,7 +3924,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819053015 +0000" stop="20260819063000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819053005 +0000" stop="20260819063000 +0000" channel="mjh-seven-syd">
     <title>The Chase</title>
     <sub-title>Episode 150</sub-title>
     <category>Special Interest</category>
@@ -3966,7 +3966,7 @@
     <episode-num system="xmltv_ns">25.230.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819093030 +0000" stop="20260819100330 +0000" channel="mjh-seven-syd">
+  <programme start="20260819093030 +0000" stop="20260819100355 +0000" channel="mjh-seven-syd">
     <title>Home and Away</title>
     <sub-title>Episode 135 of Season 39</sub-title>
     <category>Drama</category>
@@ -3978,7 +3978,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819100330 +0000" stop="20260819110640 +0000" channel="mjh-seven-syd">
+  <programme start="20260819100355 +0000" stop="20260819110705 +0000" channel="mjh-seven-syd">
     <title>The 1% Club UK</title>
     <sub-title>Episode 15 of Season 3</sub-title>
     <category>Special Interest</category>
@@ -3990,7 +3990,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819110640 +0000" stop="20260819120000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819110705 +0000" stop="20260819120000 +0000" channel="mjh-seven-syd">
     <title>The Front Bar</title>
     <sub-title>Episode 24 of Season 26</sub-title>
     <category>Special Interest</category>
@@ -4158,7 +4158,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820023000 +0000" stop="20260820033205 +0000" channel="mjh-seven-syd">
+  <programme start="20260820023000 +0000" stop="20260820033135 +0000" channel="mjh-seven-syd">
     <title>Seven's National News At Noon</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <category>News</category>
@@ -4167,7 +4167,7 @@
     <episode-num system="xmltv_ns">25.143.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820033205 +0000" stop="20260820043105 +0000" channel="mjh-seven-syd">
+  <programme start="20260820033135 +0000" stop="20260820043050 +0000" channel="mjh-seven-syd">
     <title>Time Is Money</title>
     <sub-title>Episode 1</sub-title>
     <category>Special Interest</category>
@@ -4179,7 +4179,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820043105 +0000" stop="20260820053105 +0000" channel="mjh-seven-syd">
+  <programme start="20260820043050 +0000" stop="20260820053100 +0000" channel="mjh-seven-syd">
     <title>Bridge Of Lies</title>
     <sub-title>Episode 15</sub-title>
     <category>Special Interest</category>
@@ -4191,7 +4191,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820053105 +0000" stop="20260820063000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820053100 +0000" stop="20260820063000 +0000" channel="mjh-seven-syd">
     <title>The Chase</title>
     <sub-title>Episode 151</sub-title>
     <category>Special Interest</category>
@@ -4203,7 +4203,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820063000 +0000" stop="20260820072810 +0000" channel="mjh-seven-syd">
+  <programme start="20260820063000 +0000" stop="20260820072805 +0000" channel="mjh-seven-syd">
     <title>Seven News At 4</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <category>News</category>
@@ -4212,7 +4212,7 @@
     <episode-num system="xmltv_ns">25.165.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820072810 +0000" stop="20260820082930 +0000" channel="mjh-seven-syd">
+  <programme start="20260820072805 +0000" stop="20260820082930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 61 of Season 16</sub-title>
     <category>Special Interest</category>
@@ -4260,7 +4260,7 @@
     <episode-num system="xmltv_ns">25.23.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820133020 +0000" stop="20260820143845 +0000" channel="mjh-seven-syd">
+  <programme start="20260820133020 +0000" stop="20260820143055 +0000" channel="mjh-seven-syd">
     <title>Australia's Most Dangerous Prisoners</title>
     <sub-title>Episode 6</sub-title>
     <category>Special Interest</category>
@@ -4272,7 +4272,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20260820143845 +0000" stop="20260820153720 +0000" channel="mjh-seven-syd">
+  <programme start="20260820143055 +0000" stop="20260820152930 +0000" channel="mjh-seven-syd">
     <title>Mr. Robot</title>
     <sub-title>Eps1.3_da3m0ns.Mp4</sub-title>
     <category>Drama</category>
@@ -4284,7 +4284,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20260820153720 +0000" stop="20260820163000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820152930 +0000" stop="20260820163030 +0000" channel="mjh-seven-syd">
     <title>Mr. Robot</title>
     <sub-title>Eps1.4_3xp10its.Wmv</sub-title>
     <category>Drama</category>
@@ -4296,7 +4296,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820163030 +0000" stop="20260820170015 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>TEVO Heater (A2830TEV30QRA)</sub-title>
     <category>Special Interest</category>
@@ -4308,7 +4308,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820170015 +0000" stop="20260820173015 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>Power XL Grill AirFryer Combo (PXGA2830B17904)</sub-title>
     <category>Special Interest</category>
@@ -4320,7 +4320,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820173000 +0000" stop="20260820180000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820173015 +0000" stop="20260820180000 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>Renovator Better Grip (A2830RBG25QRA</sub-title>
     <category>Special Interest</category>
@@ -4469,12 +4469,19 @@
     <episode-num system="xmltv_ns">25.25.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
   </programme>
-  <programme start="20260821134520 +0000" stop="20260821150225 +0000" channel="mjh-seven-syd">
-    <title>TBA</title>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e19e5706caa9e640e7cf/image" />
+  <programme start="20260821134520 +0000" stop="20260821150220 +0000" channel="mjh-seven-syd">
+    <title>The Voice</title>
+    <sub-title>Blind Auditions, Pt. 6</sub-title>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/9a132cb75cde4f481db5/image" />
+    <episode-num system="SxxExx">S15E06</episode-num>
+    <episode-num system="xmltv_ns">14.5.</episode-num>
+    <episode-num system="original-air-date">2026-08-21</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20260821150225 +0000" stop="20260821155725 +0000" channel="mjh-seven-syd">
+  <programme start="20260821150220 +0000" stop="20260821155720 +0000" channel="mjh-seven-syd">
     <title>Eyewitness</title>
     <sub-title>The Lilies</sub-title>
     <category>Drama</category>
@@ -4486,7 +4493,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20260821155725 +0000" stop="20260821163000 +0000" channel="mjh-seven-syd">
+  <programme start="20260821155720 +0000" stop="20260821163000 +0000" channel="mjh-seven-syd">
     <title>Harry's Practice</title>
     <sub-title>Episode 171</sub-title>
     <category>Special Interest</category>
@@ -4729,12 +4736,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260822135535 +0000" stop="20260822152955 +0000" channel="mjh-seven-syd">
-    <title>TBA</title>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e19e5706caa9e640e7cf/image" />
+  <programme start="20260822135535 +0000" stop="20260822153030 +0000" channel="mjh-seven-syd">
+    <title>The Voice</title>
+    <sub-title>Blind Auditions, Pt. 7</sub-title>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/9a132cb75cde4f481db5/image" />
+    <episode-num system="SxxExx">S15E07</episode-num>
+    <episode-num system="xmltv_ns">14.6.</episode-num>
+    <episode-num system="original-air-date">2026-08-22</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20260822152955 +0000" stop="20260822163000 +0000" channel="mjh-seven-syd">
+  <programme start="20260822153030 +0000" stop="20260822163000 +0000" channel="mjh-seven-syd">
     <title>Supercars Highlights</title>
     <sub-title>Ipswich Super440 - Day 1 - Highlight</sub-title>
     <category>Sports</category>
@@ -4925,7 +4939,7 @@
     <episode-num system="xmltv_ns">25.15.</episode-num>
     <episode-num system="original-air-date">2026-08-23</episode-num>
   </programme>
-  <programme start="20260823140710 +0000" stop="20260823150620 +0000" channel="mjh-seven-syd">
+  <programme start="20260823140710 +0000" stop="20260823150550 +0000" channel="mjh-seven-syd">
     <title>The Suspects - True Australian Thrillers</title>
     <sub-title>Episode 7 of Season 1</sub-title>
     <category>Special Interest</category>
@@ -4937,7 +4951,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260823150620 +0000" stop="20260823160630 +0000" channel="mjh-seven-syd">
+  <programme start="20260823150550 +0000" stop="20260823160530 +0000" channel="mjh-seven-syd">
     <title>Supercars Highlights</title>
     <sub-title>Ipswich Super440 - Day 2 - Highlight</sub-title>
     <category>Sports</category>
@@ -4946,7 +4960,7 @@
     <episode-num system="xmltv_ns">25.20.</episode-num>
     <episode-num system="original-air-date">2026-08-23</episode-num>
   </programme>
-  <programme start="20260823160630 +0000" stop="20260823170315 +0000" channel="mjh-seven-syd">
+  <programme start="20260823160530 +0000" stop="20260823170315 +0000" channel="mjh-seven-syd">
     <title>Curfew</title>
     <sub-title>Episode 3</sub-title>
     <category>Action &amp; Adventure</category>
@@ -5025,43 +5039,7 @@
     <episode-num system="xmltv_ns">25.213.</episode-num>
     <episode-num system="original-air-date">2026-08-24</episode-num>
   </programme>
-  <programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="mjh-10-nsw">
-    <title>The Bold and The Beautiful</title>
-    <sub-title>Episode 9838</sub-title>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2cab0061481dfd0cb327/image" />
-    <episode-num system="SxxExx">S2026E9838</episode-num>
-    <episode-num system="xmltv_ns">2025.9837.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260817213000 +0000" stop="20260817220000 +0000" channel="mjh-10-nsw">
-    <title>Deal Or No Deal</title>
-    <sub-title>Episode 11 of Season 3</sub-title>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/47dca8ad1f42e971064d/image" />
-    <episode-num system="SxxExx">S03E11</episode-num>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260817220000 +0000" stop="20260817223000 +0000" channel="mjh-10-nsw">
-    <title>Everyday Gourmet With Justine Schofield</title>
-    <sub-title>Episode 41</sub-title>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e6224a6497002b2a7121/image" />
-    <episode-num system="SxxExx">S16E41</episode-num>
-    <episode-num system="xmltv_ns">15.40.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260817223000 +0000" stop="20260817233000 +0000" channel="mjh-10-nsw">
+  <programme start="20260817222949 +0000" stop="20260817233115 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
     <sub-title>Episode 41</sub-title>
     <category>Special Interest</category>
@@ -5073,7 +5051,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260817233000 +0000" stop="20260818003000 +0000" channel="mjh-10-nsw">
+  <programme start="20260817233115 +0000" stop="20260818003133 +0000" channel="mjh-10-nsw">
     <title>The Finish Line</title>
     <sub-title>Episode 27</sub-title>
     <category>Special Interest</category>
@@ -5085,7 +5063,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260818003000 +0000" stop="20260818010000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818003133 +0000" stop="20260818010221 +0000" channel="mjh-10-nsw">
     <title>Farm To Fork</title>
     <sub-title>Episode 42 of Season 7</sub-title>
     <category>Special Interest</category>
@@ -5097,7 +5075,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260818010000 +0000" stop="20260818013000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818010221 +0000" stop="20260818012901 +0000" channel="mjh-10-nsw">
     <title>Entertainment Tonight</title>
     <sub-title>Episode 245 of Season 45</sub-title>
     <category>Special Interest</category>
@@ -5106,7 +5084,7 @@
     <episode-num system="xmltv_ns">44.244.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818013000 +0000" stop="20260818023000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818012901 +0000" stop="20260818022858 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal: Celebrity Jackpot</title>
     <sub-title>Gogglebox</sub-title>
     <category>Special Interest</category>
@@ -5118,7 +5096,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818023000 +0000" stop="20260818030000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818022858 +0000" stop="20260818030025 +0000" channel="mjh-10-nsw">
     <title>Everyday Gourmet With Justine Schofield</title>
     <sub-title>Episode 42</sub-title>
     <category>Special Interest</category>
@@ -5130,7 +5108,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260818030000 +0000" stop="20260818033000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818030025 +0000" stop="20260818033000 +0000" channel="mjh-10-nsw">
     <title>Millionaire Hot Seat</title>
     <sub-title>Episode 110 of Season 16</sub-title>
     <category>Special Interest</category>
@@ -5151,7 +5129,7 @@
     <episode-num system="xmltv_ns">2025.156.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818043000 +0000" stop="20260818050028 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal</title>
     <sub-title>Episode 26 of Season 3</sub-title>
     <category>Special Interest</category>
@@ -5163,7 +5141,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818050000 +0000" stop="20260818060000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818050028 +0000" stop="20260818055944 +0000" channel="mjh-10-nsw">
     <title>The Finish Line</title>
     <sub-title>Episode 2</sub-title>
     <category>Special Interest</category>
@@ -5175,7 +5153,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260818060000 +0000" stop="20260818070000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818055944 +0000" stop="20260818070045 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
     <sub-title>Episode 5</sub-title>
     <category>Special Interest</category>
@@ -5187,7 +5165,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260818070000 +0000" stop="20260818073000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818070045 +0000" stop="20260818073000 +0000" channel="mjh-10-nsw">
     <title>The Bold and The Beautiful</title>
     <sub-title>Episode 9839</sub-title>
     <category>Drama</category>
@@ -5208,7 +5186,7 @@
     <episode-num system="xmltv_ns">2025.163.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818090000 +0000" stop="20260818093000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818090000 +0000" stop="20260818093010 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal</title>
     <sub-title>Episode 12 of Season 3</sub-title>
     <category>Special Interest</category>
@@ -5220,7 +5198,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818093010 +0000" stop="20260818100020 +0000" channel="mjh-10-nsw">
     <title>Millionaire Hot Seat</title>
     <sub-title>Episode 96 of Season 16</sub-title>
     <category>Special Interest</category>
@@ -5232,7 +5210,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818100000 +0000" stop="20260818113000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818100020 +0000" stop="20260818113013 +0000" channel="mjh-10-nsw">
     <title>The Traitors</title>
     <sub-title>Episode 5</sub-title>
     <category>Special Interest</category>
@@ -5244,7 +5222,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818113000 +0000" stop="20260818123000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818113013 +0000" stop="20260818122938 +0000" channel="mjh-10-nsw">
     <title>The Cheap Seats</title>
     <sub-title>Episode 18</sub-title>
     <category>Special Interest</category>
@@ -5256,7 +5234,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260818123000 +0000" stop="20260818133000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818122938 +0000" stop="20260818132418 +0000" channel="mjh-10-nsw">
     <title>10's Late News</title>
     <sub-title>Tuesday 18 August 2026</sub-title>
     <category>News</category>
@@ -5265,7 +5243,7 @@
     <episode-num system="xmltv_ns">2025.156.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818133000 +0000" stop="20260818140000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818132418 +0000" stop="20260818135406 +0000" channel="mjh-10-nsw">
     <title>The Big Bang Theory</title>
     <sub-title>The Tenant Disassociation</sub-title>
     <category>Comedy</category>
@@ -5277,7 +5255,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818140000 +0000" stop="20260818143000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818135406 +0000" stop="20260818143611 +0000" channel="mjh-10-nsw">
     <title>The Big Bang Theory</title>
     <sub-title>The Reclusive Potential</sub-title>
     <category>Comedy</category>
@@ -5289,7 +5267,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818143000 +0000" stop="20260818150000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818143611 +0000" stop="20260818150531 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 229 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5298,7 +5276,7 @@
     <episode-num system="xmltv_ns">2018.228.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818150000 +0000" stop="20260818153000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818150531 +0000" stop="20260818153458 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 230 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5307,7 +5285,7 @@
     <episode-num system="xmltv_ns">2018.229.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818153458 +0000" stop="20260818160438 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 231 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5316,7 +5294,7 @@
     <episode-num system="xmltv_ns">2018.230.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818160438 +0000" stop="20260818163353 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 232 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5325,7 +5303,7 @@
     <episode-num system="xmltv_ns">2018.231.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818163000 +0000" stop="20260818170000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818163353 +0000" stop="20260818170335 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 233 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5334,7 +5312,7 @@
     <episode-num system="xmltv_ns">2018.232.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818170000 +0000" stop="20260818173000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818170335 +0000" stop="20260818173315 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 234 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5343,7 +5321,7 @@
     <episode-num system="xmltv_ns">2018.233.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818173000 +0000" stop="20260818180000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818173315 +0000" stop="20260818180235 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 235 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5352,7 +5330,7 @@
     <episode-num system="xmltv_ns">2018.234.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818180000 +0000" stop="20260818183000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818180235 +0000" stop="20260818183215 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 236 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5361,7 +5339,7 @@
     <episode-num system="xmltv_ns">2018.235.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818183000 +0000" stop="20260818190000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818183215 +0000" stop="20260818190150 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 237 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5370,7 +5348,7 @@
     <episode-num system="xmltv_ns">2018.236.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818190000 +0000" stop="20260818193000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818190150 +0000" stop="20260818193130 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 238 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5379,7 +5357,7 @@
     <episode-num system="xmltv_ns">2018.237.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818193000 +0000" stop="20260818200000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818193130 +0000" stop="20260818200045 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 239 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -5388,7 +5366,7 @@
     <episode-num system="xmltv_ns">2018.238.</episode-num>
     <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
-  <programme start="20260818200000 +0000" stop="20260818203000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818200045 +0000" stop="20260818203000 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 240 of Season 2019</sub-title>
     <category>Special Interest</category>
@@ -7316,33 +7294,6 @@
     <rating>
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="mjh-sbs-sbst">
-    <title>Al Jazeera News</title>
-    <sub-title>Tuesday 18 August 2026</sub-title>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2d15fe74d6e379205a1f/image" />
-    <episode-num system="SxxExx">S2026E817</episode-num>
-    <episode-num system="xmltv_ns">2025.816.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-  </programme>
-  <programme start="20260817213000 +0000" stop="20260817220000 +0000" channel="mjh-sbs-sbst">
-    <title>BBC News At Six</title>
-    <sub-title>Tuesday 18 August 2026</sub-title>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/db6e0c4dd80909e96abb/image" />
-    <episode-num system="SxxExx">S2026E817</episode-num>
-    <episode-num system="xmltv_ns">2025.816.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-  </programme>
-  <programme start="20260817220000 +0000" stop="20260817223000 +0000" channel="mjh-sbs-sbst">
-    <title>France 24 English News</title>
-    <sub-title>Morning First Edition</sub-title>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d366287b72d9f309557d/image" />
-    <episode-num system="SxxExx">S2026E817</episode-num>
-    <episode-num system="xmltv_ns">2025.816.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
   </programme>
   <programme start="20260817223000 +0000" stop="20260817233000 +0000" channel="mjh-sbs-sbst">
     <title>DD India News Hour</title>
@@ -9602,15 +9553,6 @@
     <episode-num system="xmltv_ns">2025.822.</episode-num>
     <episode-num system="original-air-date">2026-08-23</episode-num>
   </programme>
-  <programme start="20260817200000 +0000" stop="20260817230000 +0000" channel="mjh-abc-news">
-    <title>News Breakfast</title>
-    <sub-title>Tuesday 18 August 2026</sub-title>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/719bfe0060c8a8d61591/image" />
-    <episode-num system="SxxExx">S2026E164</episode-num>
-    <episode-num system="xmltv_ns">2025.163.</episode-num>
-    <episode-num system="original-air-date">2026-08-17</episode-num>
-  </programme>
   <programme start="20260817230000 +0000" stop="20260818020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
     <sub-title>Tuesday 18 August 2026</sub-title>
@@ -10543,6 +10485,9 @@
     <episode-num system="SxxExx">S08E05</episode-num>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260821100000 +0000" stop="20260821103600 +0000" channel="mjh-abc-news">
     <title>ABC News Tonight</title>
@@ -10660,6 +10605,9 @@
     <episode-num system="SxxExx">S08E05</episode-num>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260821160000 +0000" stop="20260821163000 +0000" channel="mjh-abc-news">
     <title>DW News</title>
@@ -11382,6 +11330,9 @@
     <episode-num system="SxxExx">S08E05</episode-num>
     <episode-num system="xmltv_ns">7.4.</episode-num>
     <episode-num system="original-air-date">2026-08-23</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260823110000 +0000" stop="20260823113000 +0000" channel="mjh-abc-news">
     <title>ABC Nightly News</title>
