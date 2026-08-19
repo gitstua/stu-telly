@@ -31,16 +31,6 @@
     <lcn>24</lcn>
     <icon src="https://i.mjh.nz/.images/abc-news.png" />
   </channel>
-  <programme start="20260818200000 +0000" stop="20260818230000 +0000" channel="mjh-abc-act">
-    <title>News Breakfast</title>
-    <sub-title>Wednesday 19 August 2026</sub-title>
-    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, Catherine Murphy with sport and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/719bfe0060c8a8d61591/image" />
-    <episode-num system="SxxExx">S2026E165</episode-num>
-    <episode-num system="xmltv_ns">2025.164.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-  </programme>
   <programme start="20260818230000 +0000" stop="20260819000000 +0000" channel="mjh-abc-act">
     <title>ABC News Mornings</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
@@ -284,7 +274,7 @@
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819124500 +0000" stop="20260819130000 +0000" channel="mjh-abc-act">
+  <programme start="20260819124500 +0000" stop="20260819130500 +0000" channel="mjh-abc-act">
     <title>The Business</title>
     <sub-title>Episode 115 of Season 2026</sub-title>
     <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
@@ -294,7 +284,7 @@
     <episode-num system="xmltv_ns">2025.114.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="mjh-abc-act">
+  <programme start="20260819130500 +0000" stop="20260819140000 +0000" channel="mjh-abc-act">
     <title>Treasure &amp; Dirt</title>
     <sub-title>The Butcher</sub-title>
     <desc>Ivan and Nell finally discover the true identity of the ratter, The Mayor lashes out and David loses control.</desc>
@@ -1159,7 +1149,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260822063000 +0000" stop="20260822070500 +0000" channel="mjh-abc-act">
+  <programme start="20260822063000 +0000" stop="20260822070000 +0000" channel="mjh-abc-act">
     <title>Kitchen Cabinet</title>
     <sub-title>Josh Burns</sub-title>
     <desc>Annabel heads to country Victoria to meet Labor MP Josh Burns and his partner Victorian state MP Georgie Purcell. Annabel learns about his upbringing and why he likes to work behind the scenes to negotiate outcomes.</desc>
@@ -1172,7 +1162,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260822070500 +0000" stop="20260822073500 +0000" channel="mjh-abc-act">
+  <programme start="20260822070000 +0000" stop="20260822073500 +0000" channel="mjh-abc-act">
     <title>Australian Story</title>
     <sub-title>The Final Act</sub-title>
     <desc>When dancer Roz Hervey was diagnosed with motor neurone disease, her daughter, actor Tilda Cobham-Hervey, stepped behind the camera to record her mother's life story. With hours left to live, Roz made a dying wish.</desc>
@@ -1344,7 +1334,7 @@
   <programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="mjh-abc-act">
     <title>Insiders</title>
     <sub-title>Episode 30 of Season 2026</sub-title>
-    <desc>Amid rising inflation, housing out of reach, cost of living pressures and a global energy crisis, David Speers and the panel cut through the noise with questions and analysis that matter on the forces driving politics.</desc>
+    <desc>David Speers and the panel discuss the week in politics including a possible deal to pass gambling reform, plus debate over superannuation, migration and the GST, housing, the NDIS, social media, defence and the economy.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d6b9d26ac59b40ced47b/image" />
     <episode-num system="SxxExx">S2026E30</episode-num>
@@ -1354,9 +1344,9 @@
   <programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="mjh-abc-act">
     <title>Offsiders</title>
     <sub-title>Episode 29 of Season 2026</sub-title>
-    <desc>It's the last day of the AFL home-and-away season as the Top 4 and the Wildcard Finals take shape. Can Australia bounce back against Bangladesh in the 2nd Test in Mackay? Abbey Gelmi and the panel discuss NRL, NRLW and AFLW.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e101e7bf7d6c504d760d/image" />
+    <desc>The Top 10 teams have been decided as the AFL moves towards its first ever Wildcard Finals. Can Australia bounce back against Bangladesh in the 2nd Test in Mackay? Abbey Gelmi and the panel discuss NRL, NRLW and AFLW.</desc>
+    <category>Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/d993acd7d1d998f0df87/image" />
     <episode-num system="SxxExx">S2026E29</episode-num>
     <episode-num system="xmltv_ns">2025.28.</episode-num>
     <episode-num system="original-air-date">2026-08-23</episode-num>
@@ -1513,7 +1503,7 @@
     <sub-title>Beaumaris Castle 3</sub-title>
     <desc>The Roadshow returns to Beaumaris Castle, Anglesey, where finds include trophies from the Isle of Man TT race, a dog collar from 1765 and work by local artist Charles Tunnicliffe.</desc>
     <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a78b0e84cfab55bc0639/image" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/deeb4550c19c2cddc773/image" />
     <episode-num system="SxxExx">S47E19</episode-num>
     <episode-num system="xmltv_ns">46.18.</episode-num>
     <episode-num system="original-air-date">2026-08-23</episode-num>
@@ -1650,7 +1640,7 @@
   <programme start="20260823190000 +0000" stop="20260823200000 +0000" channel="mjh-abc-act">
     <title>Insiders</title>
     <sub-title>Episode 30 of Season 2026</sub-title>
-    <desc>Amid rising inflation, housing out of reach, cost of living pressures and a global energy crisis, David Speers and the panel cut through the noise with questions and analysis that matter on the forces driving politics.</desc>
+    <desc>David Speers and the panel discuss the week in politics including a possible deal to pass gambling reform, plus debate over superannuation, migration and the GST, housing, the NDIS, social media, defence and the economy.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d6b9d26ac59b40ced47b/image" />
     <episode-num system="SxxExx">S2026E30</episode-num>
@@ -1806,7 +1796,7 @@
     <sub-title>Stormont 1</sub-title>
     <desc>The Roadshow sets up camp outside the iconic Parliament Building in Belfast, home to the Northern Ireland Assembly. John Baddeley takes a look at some gear associated with the Titanic.</desc>
     <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a78b0e84cfab55bc0639/image" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/deeb4550c19c2cddc773/image" />
     <episode-num system="SxxExx">S40E19</episode-num>
     <episode-num system="xmltv_ns">39.18.</episode-num>
     <episode-num system="original-air-date">2026-08-24</episode-num>
@@ -1987,7 +1977,7 @@
     <sub-title>Stormont 1</sub-title>
     <desc>The Roadshow sets up camp outside the iconic Parliament Building in Belfast, home to the Northern Ireland Assembly. John Baddeley takes a look at some gear associated with the Titanic.</desc>
     <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a78b0e84cfab55bc0639/image" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/deeb4550c19c2cddc773/image" />
     <episode-num system="SxxExx">S40E19</episode-num>
     <episode-num system="xmltv_ns">39.18.</episode-num>
     <episode-num system="original-air-date">2026-08-24</episode-num>
@@ -2034,16 +2024,6 @@
     <episode-num system="SxxExx">S2026E26</episode-num>
     <episode-num system="xmltv_ns">2025.25.</episode-num>
     <episode-num system="original-air-date">2026-08-25</episode-num>
-  </programme>
-  <programme start="20260818192900 +0000" stop="20260818230000 +0000" channel="mjh-channel-9-nsw">
-    <title>Today</title>
-    <sub-title>Wednesday 19 August 2026</sub-title>
-    <desc>Join TODAY to bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/548f388c4804e8118852/image" />
-    <episode-num system="SxxExx">S2026E165</episode-num>
-    <episode-num system="xmltv_ns">2025.164.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
   <programme start="20260818230000 +0000" stop="20260819013000 +0000" channel="mjh-channel-9-nsw">
     <title>Today Extra</title>
@@ -2382,7 +2362,7 @@
     <episode-num system="xmltv_ns">2025.165.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820020000 +0000" stop="20260820030000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820020000 +0000" stop="20260820030900 +0000" channel="mjh-channel-9-nsw">
     <title>The Block</title>
     <sub-title>Main Bedroom &amp; Walk-In-Robe Week</sub-title>
     <desc>Tayla questions whether their house will sell if she doesn't change from her original plan and a new challenge provides lots of laughs.</desc>
@@ -2395,7 +2375,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820030900 +0000" stop="20260820040500 +0000" channel="mjh-channel-9-nsw">
     <title>Space Invaders</title>
     <sub-title>Jo &amp; Shayne</sub-title>
     <desc>Jo and Shayne's home is overrun by clutter and their teenage sons are embarrassed to invite friends over. Peter pushes them to let go of the past, Cherie creates a modern pool room and bar, while Angie brings family treasures back to life.</desc>
@@ -2408,7 +2388,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820040500 +0000" stop="20260820045900 +0000" channel="mjh-channel-9-nsw">
     <title>Pointless</title>
     <sub-title>Episode 14</sub-title>
     <desc>Alexander and Chris Ramsey are back with bingo calls and USA geography for the teams.</desc>
@@ -2421,7 +2401,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820050000 +0000" stop="20260820060000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820045900 +0000" stop="20260820060000 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point</title>
     <sub-title>Episode 72</sub-title>
     <desc>Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.</desc>
@@ -2434,7 +2414,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820060000 +0000" stop="20260820070000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820060000 +0000" stop="20260820065600 +0000" channel="mjh-channel-9-nsw">
     <title>9News Afternoon</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <desc>9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.</desc>
@@ -2444,7 +2424,7 @@
     <episode-num system="xmltv_ns">2025.165.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820070000 +0000" stop="20260820080000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820065600 +0000" stop="20260820075900 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point Australia</title>
     <sub-title>Episode 41</sub-title>
     <desc>Tipping Point Australia will push contestants' luck to the very edge. Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.</desc>
@@ -2457,7 +2437,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820080000 +0000" stop="20260820090000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820075900 +0000" stop="20260820090000 +0000" channel="mjh-channel-9-nsw">
     <title>9News</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <desc>Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.</desc>
@@ -2497,7 +2477,7 @@
     <episode-num system="xmltv_ns">2025.24.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820124000 +0000" stop="20260820131000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820124000 +0000" stop="20260820130800 +0000" channel="mjh-channel-9-nsw">
     <title>9News Late</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <desc>Join the 9News Late team for all of today's top stories from Australia and around the world.</desc>
@@ -2507,7 +2487,7 @@
     <episode-num system="xmltv_ns">2025.165.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820131000 +0000" stop="20260820140500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820130800 +0000" stop="20260820140600 +0000" channel="mjh-channel-9-nsw">
     <title>Ski Rescue Down Under</title>
     <sub-title>Episode 3</sub-title>
     <desc>Paddy wipes-out without a helmet and now can't remember a thing. Charles is locked in full-spinal precaution mode. And adventure mum Nat's 'go fast, don't die' life mantra backfires badly.</desc>
@@ -2520,7 +2500,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260820140500 +0000" stop="20260820150000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820140600 +0000" stop="20260820150600 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point</title>
     <sub-title>Episode 72</sub-title>
     <desc>Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.</desc>
@@ -2533,7 +2513,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820150000 +0000" stop="20260820153000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820150600 +0000" stop="20260820153900 +0000" channel="mjh-channel-9-nsw">
     <title>Next Stop</title>
     <sub-title>Spain / Portugal</sub-title>
     <desc>A quick plunge into the sights, sounds, history, and flavours of your next destination.</desc>
@@ -2546,7 +2526,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820153000 +0000" stop="20260820160000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820153900 +0000" stop="20260820160800 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Kelton Cookware</sub-title>
     <desc>Home shopping programme.</desc>
@@ -2559,7 +2539,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820160800 +0000" stop="20260820163600 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>TEVO Heater</sub-title>
     <desc>Home shopping programme.</desc>
@@ -2572,7 +2552,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820163600 +0000" stop="20260820170500 +0000" channel="mjh-channel-9-nsw">
     <title>Global Shop</title>
     <sub-title>5 Minute Clever Chef</sub-title>
     <desc>Home shopping programme.</desc>
@@ -2585,7 +2565,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820170500 +0000" stop="20260820173300 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Handy Saw</sub-title>
     <desc>Home shopping programme.</desc>
@@ -2598,7 +2578,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820173000 +0000" stop="20260820180000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820173300 +0000" stop="20260820180200 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>TEVO Heater</sub-title>
     <desc>Home shopping programme.</desc>
@@ -2611,7 +2591,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820180000 +0000" stop="20260820183000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820180200 +0000" stop="20260820183400 +0000" channel="mjh-channel-9-nsw">
     <title>Skippy</title>
     <sub-title>Tiger</sub-title>
     <desc>Classic Australian series starring Ed Deveraux and Tony Bonner. An amateur photographer shows Mark and Sonny some photos of an unusual animal, which Matt thinks could be the long-extinct Tasmanian tiger.</desc>
@@ -2624,7 +2604,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820183000 +0000" stop="20260820190000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820183400 +0000" stop="20260820190000 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <desc>A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.</desc>
@@ -2634,7 +2614,7 @@
     <episode-num system="xmltv_ns">2025.165.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820190000 +0000" stop="20260820193000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820190000 +0000" stop="20260820192900 +0000" channel="mjh-channel-9-nsw">
     <title>Today Early News</title>
     <sub-title>Friday 21 August 2026</sub-title>
     <desc>Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.</desc>
@@ -2644,7 +2624,7 @@
     <episode-num system="xmltv_ns">2025.166.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820193000 +0000" stop="20260820230000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20260820192900 +0000" stop="20260820230000 +0000" channel="mjh-channel-9-nsw">
     <title>Today</title>
     <sub-title>Friday 21 August 2026</sub-title>
     <desc>Join TODAY to bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.</desc>
@@ -3832,16 +3812,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260818193000 +0000" stop="20260818230000 +0000" channel="mjh-seven-syd">
-    <title>Sunrise</title>
-    <sub-title>Wednesday 19 August 2026</sub-title>
-    <desc>Wake up to a better breakfast with Natalie Barr and Matt Shirvington for all the latest news, sport and weather.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7e702574ba18dd53c7d3/image" />
-    <episode-num system="SxxExx">S26E165</episode-num>
-    <episode-num system="xmltv_ns">25.164.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-  </programme>
   <programme start="20260818230000 +0000" stop="20260819020000 +0000" channel="mjh-seven-syd">
     <title>The Morning Show</title>
     <sub-title>Episode 153</sub-title>
@@ -3963,7 +3933,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819103705 +0000" stop="20260819113000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819103705 +0000" stop="20260819114225 +0000" channel="mjh-seven-syd">
     <title>The Front Bar</title>
     <sub-title>Episode 24 of Season 26</sub-title>
     <desc>Join Sam Pang, Mick Molloy and Andy Maher as they share a laugh about the world of AFL and catch up with stars of yesteryear and today.</desc>
@@ -3976,7 +3946,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819113000 +0000" stop="20260819120000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819114225 +0000" stop="20260819121240 +0000" channel="mjh-seven-syd">
     <title>Unfiltered</title>
     <sub-title>Aliir Aliir</sub-title>
     <desc>Hamish McLachlan sits down with some of the AFL's most prominent personalities for in depth conversations revealing, challenges, triumphs, and vulnerabilities, beyond their sporting achievements.</desc>
@@ -3989,7 +3959,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819120000 +0000" stop="20260819130000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819121240 +0000" stop="20260819131240 +0000" channel="mjh-seven-syd">
     <title>The Agenda Setters</title>
     <sub-title>Episode 72 of Season 26</sub-title>
     <desc>Footy’s home of hard-hitting opinions, breaking news, and respected analysis. Seven’s team of trusted and respected footy voices tackle the biggest topics and take viewers behind the headlines.</desc>
@@ -3999,7 +3969,7 @@
     <episode-num system="xmltv_ns">25.71.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819130000 +0000" stop="20260819133000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819131240 +0000" stop="20260819134235 +0000" channel="mjh-seven-syd">
     <title>The Fall And Rise Of Reggie Dinkins</title>
     <sub-title>The Loyalty Swamp</sub-title>
     <desc>Tobin's past comes back to haunt him. Reggie and Brina struggle to set a wedding date.</desc>
@@ -4012,7 +3982,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819133000 +0000" stop="20260819140000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819134235 +0000" stop="20260819141330 +0000" channel="mjh-seven-syd">
     <title>Stumble</title>
     <sub-title>God Bless &amp; Headltston</sub-title>
     <desc>When Courteney learns that an AI company is looking at Headltston as a potential site for its new data centre, she goes full out to win them over, hoping to get much-needed money and sponsorship.</desc>
@@ -4025,7 +3995,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819140000 +0000" stop="20260819150000 +0000" channel="mjh-seven-syd">
+  <programme start="20260819141330 +0000" stop="20260819151320 +0000" channel="mjh-seven-syd">
     <title>Everything I Know About Love</title>
     <sub-title>Unknown Jungles</sub-title>
     <desc>The girls throw a queen-themed house party. It’s clear Birdy would rather be with Nathan and despite Maggie’s protestations she finally bails, leaving them to party without her.</desc>
@@ -4038,7 +4008,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819150000 +0000" stop="20260819160030 +0000" channel="mjh-seven-syd">
+  <programme start="20260819151320 +0000" stop="20260819160030 +0000" channel="mjh-seven-syd">
     <title>Harry's Practice</title>
     <sub-title>Episode 170</sub-title>
     <desc>Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.</desc>
@@ -4156,7 +4126,7 @@
     <episode-num system="xmltv_ns">25.143.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820030135 +0000" stop="20260820040050 +0000" channel="mjh-seven-syd">
+  <programme start="20260820030135 +0000" stop="20260820040045 +0000" channel="mjh-seven-syd">
     <title>Time Is Money</title>
     <sub-title>Episode 1</sub-title>
     <desc>Sara Davies hosts the quickest quiz where contestants are given their prize money from the start but must race to keep hold of it. Only one can make the final and a chance to win big.</desc>
@@ -4169,7 +4139,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820040050 +0000" stop="20260820050100 +0000" channel="mjh-seven-syd">
+  <programme start="20260820040045 +0000" stop="20260820050050 +0000" channel="mjh-seven-syd">
     <title>Bridge Of Lies</title>
     <sub-title>Episode 15</sub-title>
     <desc>Teams of contestants must be on their toes and keep their eye on the prize as they attempt to cross a bridge made of stepping stones, stepping on the truths and avoiding the lies. Hosted by Ross Kemp</desc>
@@ -4182,7 +4152,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820050100 +0000" stop="20260820060000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820050050 +0000" stop="20260820060000 +0000" channel="mjh-seven-syd">
     <title>The Chase</title>
     <sub-title>Episode 151</sub-title>
     <desc>Bradley Walsh hosts as four strangers - Fran from London, Lynsey from Truro, Donald from Edinburgh and Josh from Mill Hill - come together in the hope that they can take on a Chaser as a team and leave with thousands of pounds.</desc>
@@ -4195,7 +4165,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260820060000 +0000" stop="20260820065805 +0000" channel="mjh-seven-syd">
+  <programme start="20260820060000 +0000" stop="20260820065800 +0000" channel="mjh-seven-syd">
     <title>Seven News At 4</title>
     <sub-title>Thursday 20 August 2026</sub-title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
@@ -4205,7 +4175,7 @@
     <episode-num system="xmltv_ns">25.165.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
   </programme>
-  <programme start="20260820065805 +0000" stop="20260820075930 +0000" channel="mjh-seven-syd">
+  <programme start="20260820065800 +0000" stop="20260820075930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 61 of Season 16</sub-title>
     <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
@@ -4254,7 +4224,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820103505 +0000" stop="20260820113650 +0000" channel="mjh-seven-syd">
+  <programme start="20260820103505 +0000" stop="20260820113640 +0000" channel="mjh-seven-syd">
     <title>Air Crash Investigation</title>
     <sub-title>Running On Empty</sub-title>
     <desc>An Air Tahoma cargo plane is within sight of a Cincinnati runway when both engines flame out and the turboprop crashes into a golf course.</desc>
@@ -4267,7 +4237,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820113650 +0000" stop="20260820123000 +0000" channel="mjh-seven-syd">
+  <programme start="20260820113640 +0000" stop="20260820123000 +0000" channel="mjh-seven-syd">
     <title>Ron Iddles: The Good Cop</title>
     <sub-title>Maria James</sub-title>
     <desc>Throughout his career, Ron Iddles has been haunted by his first homicide case: the 1980 stabbing murder of bookshop owner Maria James.</desc>
@@ -4306,7 +4276,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260820140000 +0000" stop="20260820150505 +0000" channel="mjh-seven-syd">
+  <programme start="20260820140000 +0000" stop="20260820150445 +0000" channel="mjh-seven-syd">
     <title>Mr. Robot</title>
     <sub-title>Eps1.3_da3m0ns.Mp4</sub-title>
     <desc>Elliot suffers severe withdrawal symptoms, jeopardising his plan to deal with the Steel Mountain back-ups by overriding a thermostat.</desc>
@@ -4319,7 +4289,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20260820150505 +0000" stop="20260820160030 +0000" channel="mjh-seven-syd">
+  <programme start="20260820150445 +0000" stop="20260820160030 +0000" channel="mjh-seven-syd">
     <title>Mr. Robot</title>
     <sub-title>Eps1.4_3xp10its.Wmv</sub-title>
     <desc>Elliot needs to get in and out of Steel Mountain, the most secure data facility in the US, quickly when fsociety arrives.</desc>
@@ -4427,7 +4397,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260821020000 +0000" stop="20260821030205 +0000" channel="mjh-seven-syd">
+  <programme start="20260821020000 +0000" stop="20260821030200 +0000" channel="mjh-seven-syd">
     <title>Seven's National News At Noon</title>
     <sub-title>Friday 21 August 2026</sub-title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
@@ -4437,7 +4407,7 @@
     <episode-num system="xmltv_ns">25.144.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
   </programme>
-  <programme start="20260821030205 +0000" stop="20260821050105 +0000" channel="mjh-seven-syd">
+  <programme start="20260821030200 +0000" stop="20260821050100 +0000" channel="mjh-seven-syd">
     <title>Fallen Angels Murder Club: Friends To Die For</title>
     <desc>Hollis Morgan, an ex-con turned amateur sleuth who sets out to investigate a series of murders.</desc>
     <category>Drama</category>
@@ -4446,7 +4416,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260821050105 +0000" stop="20260821060000 +0000" channel="mjh-seven-syd">
+  <programme start="20260821050100 +0000" stop="20260821060000 +0000" channel="mjh-seven-syd">
     <title>The Chase</title>
     <sub-title>Episode 152</sub-title>
     <desc>Bradley Walsh hosts as all that stands between Julie from Londonderry, Abby from Newcastle, Mahesh from Bolton, Paul from Wiltshire and thousands of pounds is the not-so-small matter of one of the country's finest quiz brains.</desc>
@@ -4459,7 +4429,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260821060000 +0000" stop="20260821065810 +0000" channel="mjh-seven-syd">
+  <programme start="20260821060000 +0000" stop="20260821065805 +0000" channel="mjh-seven-syd">
     <title>Seven News At 4</title>
     <sub-title>Friday 21 August 2026</sub-title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
@@ -4469,7 +4439,7 @@
     <episode-num system="xmltv_ns">25.166.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
   </programme>
-  <programme start="20260821065810 +0000" stop="20260821075930 +0000" channel="mjh-seven-syd">
+  <programme start="20260821065805 +0000" stop="20260821075930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 30 of Season 16</sub-title>
     <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
@@ -4492,7 +4462,7 @@
     <episode-num system="xmltv_ns">25.232.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
   </programme>
-  <programme start="20260821090030 +0000" stop="20260821100025 +0000" channel="mjh-seven-syd">
+  <programme start="20260821090030 +0000" stop="20260821100000 +0000" channel="mjh-seven-syd">
     <title>Better Homes And Gardens</title>
     <sub-title>Better Homes And Gardens</sub-title>
     <desc>Joh's travelling to Kati Thanda-Lake Eyre to witness a breathtaking once-in-a generation phenomenon. Melissa visits Fitzroy Gardens. Adam builds a drinks trolley. Colin and Manu go caravanning.</desc>
@@ -4505,7 +4475,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260821100025 +0000" stop="20260821130445 +0000" channel="mjh-seven-syd">
+  <programme start="20260821100000 +0000" stop="20260821130650 +0000" channel="mjh-seven-syd">
     <title>The Help</title>
     <desc>An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work on a daily basis.</desc>
     <category>Drama</category>
@@ -4514,7 +4484,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260821130445 +0000" stop="20260821141750 +0000" channel="mjh-seven-syd">
+  <programme start="20260821130650 +0000" stop="20260821142110 +0000" channel="mjh-seven-syd">
     <title>The Voice</title>
     <sub-title>Blind Auditions, Pt. 6</sub-title>
     <desc>We’re blasting past the halfway mark of the Blind Auditions with five more explosive artists set to blow the roof off the Voice stage.</desc>
@@ -4527,7 +4497,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260821141750 +0000" stop="20260821151320 +0000" channel="mjh-seven-syd">
+  <programme start="20260821142110 +0000" stop="20260821151640 +0000" channel="mjh-seven-syd">
     <title>Eyewitness</title>
     <sub-title>The Lilies</sub-title>
     <desc>Ryan is forced to interfere with an autopsy as Helen gets closer to the truth. Philip deals with a surprise visit from his mom, and Lukas struggles with anxiety about the cabin murders.</desc>
@@ -4540,7 +4510,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20260821151320 +0000" stop="20260821160000 +0000" channel="mjh-seven-syd">
+  <programme start="20260821151640 +0000" stop="20260821160000 +0000" channel="mjh-seven-syd">
     <title>Harry's Practice</title>
     <sub-title>Episode 171</sub-title>
     <desc>Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.</desc>
@@ -4744,7 +4714,7 @@
     <episode-num system="xmltv_ns">25.233.</episode-num>
     <episode-num system="original-air-date">2026-08-22</episode-num>
   </programme>
-  <programme start="20260822090030 +0000" stop="20260822100025 +0000" channel="mjh-seven-syd">
+  <programme start="20260822090030 +0000" stop="20260822100215 +0000" channel="mjh-seven-syd">
     <title>Better Homes And Gardens</title>
     <sub-title>Episode 49 of Season 32</sub-title>
     <desc>Dr Harry meets the latest new arrivals at Taronga Zoo. Adam makes a bespoke wall hung bookshelf. Graham visits the Blue Mountains Botanic Gardens. Charlie helps you plan the height of your gardens.</desc>
@@ -4757,7 +4727,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260822100025 +0000" stop="20260822103025 +0000" channel="mjh-seven-syd">
+  <programme start="20260822100215 +0000" stop="20260822103355 +0000" channel="mjh-seven-syd">
     <title>The Great Outdoors</title>
     <sub-title>Episode 6 of Season 21</sub-title>
     <desc>The Great Outdoors spends time with the locals of the rugged Scottish Highlands; surfs one of Australia's best point breaks; and tuk tuks through Bordeaux's subterranean networks.</desc>
@@ -4770,7 +4740,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260822103025 +0000" stop="20260822132535 +0000" channel="mjh-seven-syd">
+  <programme start="20260822103355 +0000" stop="20260822133420 +0000" channel="mjh-seven-syd">
     <title>Jurassic World: Dominion</title>
     <desc>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</desc>
     <category>Action &amp; Adventure</category>
@@ -4779,7 +4749,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260822132535 +0000" stop="20260822150030 +0000" channel="mjh-seven-syd">
+  <programme start="20260822133420 +0000" stop="20260822150045 +0000" channel="mjh-seven-syd">
     <title>The Voice</title>
     <sub-title>Blind Auditions, Pt. 7</sub-title>
     <desc>Our coaches continue to search far and wide for Australia’s most spectacular talent. With the end of the Blind Auditions on the horizon, who will prove they have the Voice?</desc>
@@ -4792,7 +4762,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260822150030 +0000" stop="20260822160000 +0000" channel="mjh-seven-syd">
+  <programme start="20260822150045 +0000" stop="20260822160000 +0000" channel="mjh-seven-syd">
     <title>Supercars Highlights</title>
     <sub-title>Ipswich Super440 - Day 1 - Highlight</sub-title>
     <desc>Catch all the highlights as the Supercars return to the famous paperclip circuit for the Sprint Cup finale.</desc>
@@ -5370,46 +5340,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">25.219.</episode-num>
     <episode-num system="original-air-date">2026-08-25</episode-num>
   </programme>
-  <programme start="20260818210000 +0000" stop="20260818213000 +0000" channel="mjh-10-nsw">
-    <title>Deal Or No Deal</title>
-    <sub-title>Episode 12 of Season 3</sub-title>
-    <desc>Anna Grande is full of zest and an infectious laugh. All she wants to win enough money to buy a new car, as she has only ever had old bombs. Can she beat The Banker and drive away with the 100K?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/47dca8ad1f42e971064d/image" />
-    <episode-num system="SxxExx">S03E12</episode-num>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260818213000 +0000" stop="20260818220000 +0000" channel="mjh-10-nsw">
-    <title>Everyday Gourmet With Justine Schofield</title>
-    <sub-title>Episode 42</sub-title>
-    <desc>Develop your prowess in the kitchen with one of Australia’s most loved cooks, Justine Schofield. Along with an array of amazing guests Justine inspires cooks of all skill levels to be more ambitious and creative in their kitchens.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e6224a6497002b2a7121/image" />
-    <episode-num system="SxxExx">S16E42</episode-num>
-    <episode-num system="xmltv_ns">15.41.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260818220000 +0000" stop="20260818230000 +0000" channel="mjh-10-nsw">
-    <title>Lingo</title>
-    <sub-title>Episode 1</sub-title>
-    <desc>All new quiz series. Where the simplest of words can win contestants serious prize money. Just like Wordle, players have several guesses to try and find the Lingo word.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5f1b5d6104851f42ed99/image" />
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260818230000 +0000" stop="20260819000000 +0000" channel="mjh-10-nsw">
+  <programme start="20260818230108 +0000" stop="20260819000121 +0000" channel="mjh-10-nsw">
     <title>The Finish Line</title>
     <sub-title>Episode 28 of Season 2</sub-title>
     <desc>Roman Kemp returns to host the quiz show with sidekick Sarah Greene - contestants race in moving podiums across the studio floor. Correct answers get the players moving, wrong answers will stop them.</desc>
@@ -5422,7 +5353,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819000000 +0000" stop="20260819003000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819000121 +0000" stop="20260819003008 +0000" channel="mjh-10-nsw">
     <title>Entertainment Tonight</title>
     <sub-title>Episode 246 of Season 45</sub-title>
     <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
@@ -5432,7 +5363,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">44.245.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819003000 +0000" stop="20260819020000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819003008 +0000" stop="20260819020043 +0000" channel="mjh-10-nsw">
     <title>The Traitors</title>
     <sub-title>Episode 5</sub-title>
     <desc>Cracks form as the pressure mounts, and an unexpected murder wreaks havoc in the manor. Fingers start to point at each other as the Faithful desperately try to hunt down a Traitor.</desc>
@@ -5445,7 +5376,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819020000 +0000" stop="20260819023000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819020043 +0000" stop="20260819023040 +0000" channel="mjh-10-nsw">
     <title>Everyday Gourmet With Justine Schofield</title>
     <sub-title>Episode 43</sub-title>
     <desc>Develop your prowess in the kitchen with one of Australia’s most loved cooks, Justine Schofield. Along with an array of amazing guests Justine inspires cooks of all skill levels to be more ambitious and creative in their kitchens.</desc>
@@ -5458,7 +5389,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819023000 +0000" stop="20260819030000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819023040 +0000" stop="20260819030000 +0000" channel="mjh-10-nsw">
     <title>Millionaire Hot Seat</title>
     <sub-title>Episode 96 of Season 16</sub-title>
     <desc>Snake catcher Bronte and World Karaoke Championships finalist Jason are amongst the six enthusiastic contestants hoping to take home the winning prize.</desc>
@@ -5481,7 +5412,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2025.157.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819040000 +0000" stop="20260819043042 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal</title>
     <sub-title>Episode 16 of Season 3</sub-title>
     <desc>Retired Plumber John Pullen has pipe dreams of owning his own Hot Rod and cruising the streets in his retirement. Can he push full throttle and beat The Banker, or will his game spin out of control?</desc>
@@ -5494,7 +5425,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819043000 +0000" stop="20260819053000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819043042 +0000" stop="20260819052950 +0000" channel="mjh-10-nsw">
     <title>The Finish Line</title>
     <sub-title>Episode 3</sub-title>
     <desc>Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Ashleigh, Thomas, Lauren, Iwan and Giles race in moving podiums across the studio floor to try to win £5,000.</desc>
@@ -5507,7 +5438,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819053000 +0000" stop="20260819063000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819052950 +0000" stop="20260819063054 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
     <sub-title>Episode 6</sub-title>
     <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
@@ -5520,7 +5451,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260819063000 +0000" stop="20260819070000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819063054 +0000" stop="20260819070000 +0000" channel="mjh-10-nsw">
     <title>The Bold and The Beautiful</title>
     <sub-title>Episode 9840</sub-title>
     <desc>Finn convinces Sheila to stay away. Brooke gets upsetting news from Fanny.</desc>
@@ -5543,7 +5474,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2025.164.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819083000 +0000" stop="20260819090000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819083000 +0000" stop="20260819090037 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal</title>
     <sub-title>Episode 6</sub-title>
     <desc>Sam Wood was a gentle giant who has come along, looking to fund his wedding with partner Kate. The Banker wants to make sure they leave with just enough to get eloped.</desc>
@@ -5556,7 +5487,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819090000 +0000" stop="20260819093000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819090037 +0000" stop="20260819093028 +0000" channel="mjh-10-nsw">
     <title>Millionaire Hot Seat</title>
     <sub-title>Episode 165 of Season 16</sub-title>
     <desc>In this episode, improv actor Jim takes on ACL tearer Sam, as six contestants put their knowledge to the test for a chance of winning one million dollars.</desc>
@@ -5569,7 +5500,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819093000 +0000" stop="20260819110000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819093028 +0000" stop="20260819110144 +0000" channel="mjh-10-nsw">
     <title>The Traitors</title>
     <sub-title>Episode 6</sub-title>
     <desc>At the halfway point, mayhem reigns, and the Traitors remain as elusive as ever. But strategy begins to pay off during a volatile Roundtable as the Faithfuls hunt for their first taste of blood.</desc>
@@ -5582,7 +5513,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260819110000 +0000" stop="20260819120000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819110144 +0000" stop="20260819115753 +0000" channel="mjh-10-nsw">
     <title>Boston Blue</title>
     <sub-title>Collateral Damage</sub-title>
     <desc>Mae faces public and family backlash over the consequences of her past decisions, while Sarah struggles with guilt that pushes her to take risks in pursuit of justice.</desc>
@@ -5595,7 +5526,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819120000 +0000" stop="20260819130000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819115753 +0000" stop="20260819125343 +0000" channel="mjh-10-nsw">
     <title>10's Late News</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
     <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
@@ -5605,7 +5536,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2025.157.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819125343 +0000" stop="20260819140446 +0000" channel="mjh-10-nsw">
     <title>The Cheap Seats</title>
     <sub-title>Episode 18</sub-title>
     <desc>Taking a fun look at the week that was are The Cheap Seats hosts Melanie Bracewell &amp; Tim McDonald. Joining in on the action are Mel Tracina, comedy duo Roy &amp; HG and Gold Logie winner Sam Pang.</desc>
@@ -5618,7 +5549,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260819140000 +0000" stop="20260819143000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819140446 +0000" stop="20260819143428 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 385 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -5628,7 +5559,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.384.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819143000 +0000" stop="20260819150000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819143428 +0000" stop="20260819150353 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 386 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5638,7 +5569,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.385.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819150000 +0000" stop="20260819153000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819150353 +0000" stop="20260819153348 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 387 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5648,7 +5579,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.386.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819153000 +0000" stop="20260819160000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819153348 +0000" stop="20260819160328 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 388 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5658,7 +5589,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.387.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819160000 +0000" stop="20260819163000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819160328 +0000" stop="20260819163248 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 389 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5668,7 +5599,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.388.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819163000 +0000" stop="20260819170000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819163248 +0000" stop="20260819170201 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 390 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5678,7 +5609,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.389.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819170000 +0000" stop="20260819173000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819170201 +0000" stop="20260819173141 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 391 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5688,7 +5619,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.390.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819173000 +0000" stop="20260819180000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819173141 +0000" stop="20260819180123 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 392 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -5698,7 +5629,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.391.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819180000 +0000" stop="20260819183000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819180123 +0000" stop="20260819183103 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 393 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5708,7 +5639,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.392.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819183000 +0000" stop="20260819190000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819183103 +0000" stop="20260819190058 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 394 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5718,7 +5649,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.393.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819190000 +0000" stop="20260819193000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819190058 +0000" stop="20260819193040 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 395 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -5728,7 +5659,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="xmltv_ns">2018.394.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
   </programme>
-  <programme start="20260819193000 +0000" stop="20260819200000 +0000" channel="mjh-10-nsw">
+  <programme start="20260819193040 +0000" stop="20260819200000 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 396 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -7607,7 +7538,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
   <programme start="20260824093000 +0000" stop="20260824104000 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal: Celebrity Jackpot</title>
     <sub-title>Melanie Bracewell &amp; Tim McDonald</sub-title>
-    <desc>There's double trouble when The Cheap Seats', Melanie Bracewell and Tim McDonald team up to take on the Banker.  Who'll come out on top, their charity or the Deal's resident penny pincher?</desc>
+    <desc>There's double trouble when The Cheap Seats' Melanie Bracewell and Tim McDonald team up to take on the Banker.  Who'll come out on top, their charity or the Deal's resident penny pincher?</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/8ef3f4e6bfd17865ad20/image" />
     <episode-num system="SxxExx">S01E05</episode-num>
@@ -7619,7 +7550,7 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
   </programme>
   <programme start="20260824104000 +0000" stop="20260824114000 +0000" channel="mjh-10-nsw">
     <title>Have You Been Paying Attention?</title>
-    <sub-title>Episode 17 of Season 14</sub-title>
+    <sub-title>Episode 17</sub-title>
     <desc>Have You Been Paying Attention? is back! Host Tom Gleisner is joined by regulars Sam Pang &amp; Ed Kavalee, along with a stellar line-up of some of this country's funniest &amp; freshest faces.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/706a5146db873348566b/image" />
@@ -7886,36 +7817,6 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <rating>
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20260818210000 +0000" stop="20260818213000 +0000" channel="mjh-sbs-sbst">
-    <title>BBC News At Six</title>
-    <sub-title>Wednesday 19 August 2026</sub-title>
-    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/db6e0c4dd80909e96abb/image" />
-    <episode-num system="SxxExx">S2026E818</episode-num>
-    <episode-num system="xmltv_ns">2025.817.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-  </programme>
-  <programme start="20260818213000 +0000" stop="20260818220000 +0000" channel="mjh-sbs-sbst">
-    <title>France 24 English News</title>
-    <sub-title>Morning First Edition</sub-title>
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d366287b72d9f309557d/image" />
-    <episode-num system="SxxExx">S2026E818</episode-num>
-    <episode-num system="xmltv_ns">2025.817.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-  </programme>
-  <programme start="20260818220000 +0000" stop="20260818230000 +0000" channel="mjh-sbs-sbst">
-    <title>DD India News Hour</title>
-    <sub-title>Wednesday 19 August 2026</sub-title>
-    <desc>The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0d13b959eeb59fd98402/image" />
-    <episode-num system="SxxExx">S2026E818</episode-num>
-    <episode-num system="xmltv_ns">2025.817.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
   </programme>
   <programme start="20260818230000 +0000" stop="20260818233000 +0000" channel="mjh-sbs-sbst">
     <title>Paul O'Grady For The Love Of Dogs</title>
@@ -10388,16 +10289,6 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260818200000 +0000" stop="20260818230000 +0000" channel="mjh-abc-news">
-    <title>News Breakfast</title>
-    <sub-title>Wednesday 19 August 2026</sub-title>
-    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, Catherine Murphy with sport and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/719bfe0060c8a8d61591/image" />
-    <episode-num system="SxxExx">S2026E165</episode-num>
-    <episode-num system="xmltv_ns">2025.164.</episode-num>
-    <episode-num system="original-air-date">2026-08-18</episode-num>
-  </programme>
   <programme start="20260818230000 +0000" stop="20260819020000 +0000" channel="mjh-abc-news">
     <title>ABC News Mornings</title>
     <sub-title>Wednesday 19 August 2026</sub-title>
@@ -10607,6 +10498,9 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="SxxExx">S2026E28</episode-num>
     <episode-num system="xmltv_ns">2025.27.</episode-num>
     <episode-num system="original-air-date">2026-08-19</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260819150000 +0000" stop="20260819153000 +0000" channel="mjh-abc-news">
     <title>ABC News Overnight</title>
@@ -10990,6 +10884,9 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="SxxExx">S2026E28</episode-num>
     <episode-num system="xmltv_ns">2025.27.</episode-num>
     <episode-num system="original-air-date">2026-08-20</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260820180000 +0000" stop="20260820183000 +0000" channel="mjh-abc-news">
     <title>DW News</title>
@@ -11349,6 +11246,9 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="SxxExx">S2026E28</episode-num>
     <episode-num system="xmltv_ns">2025.27.</episode-num>
     <episode-num system="original-air-date">2026-08-21</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260821200000 +0000" stop="20260821200300 +0000" channel="mjh-abc-news">
     <title>ABC News Update</title>
@@ -11488,6 +11388,9 @@ Highland cows &amp; cupcakes make for a sweet treat in the country.</desc>
     <episode-num system="SxxExx">S2026E28</episode-num>
     <episode-num system="xmltv_ns">2025.27.</episode-num>
     <episode-num system="original-air-date">2026-08-22</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20260822060000 +0000" stop="20260822063000 +0000" channel="mjh-abc-news">
     <title>ABC News</title>
