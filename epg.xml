@@ -31,26 +31,6 @@
     <lcn>24</lcn>
     <icon src="https://i.mjh.nz/.images/abc-news.png" />
   </channel>
-  <programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="mjh-abc-act">
-    <title>ABC News At Noon</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>The leading news at lunchtime. Kathryn Robinson brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/52a56d42b326025bbce9/image" />
-    <episode-num system="SxxExx">S2026E233</episode-num>
-    <episode-num system="xmltv_ns">2025.232.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="mjh-abc-act">
-    <title>Landline</title>
-    <sub-title>Episode 41 of Season 2026</sub-title>
-    <desc>Farming land being redefined by the global carbon market - is agricultural land the right place to grow trees for carbon; and building the first fully integrated beef supply chain in Northern WA.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/b574509c20385cf96007/image" />
-    <episode-num system="SxxExx">S2026E41</episode-num>
-    <episode-num system="xmltv_ns">2025.40.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
   <programme start="20261123030000 +0000" stop="20261123040000 +0000" channel="mjh-abc-act">
     <title>Parliament Question Time</title>
     <sub-title>Senate</sub-title>
@@ -924,7 +904,7 @@
   </programme>
   <programme start="20261125122500 +0000" stop="20261125131000 +0000" channel="mjh-abc-act">
     <title>Shakedown</title>
-    <sub-title>Episode 1 of Season 1</sub-title>
+    <sub-title>Episode 1</sub-title>
     <desc>A brutal automated welfare scheme unravels lives, as a Royal Commission exposes the systemic failures and political decisions behind the Robodebt scandal.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131e1d0646f0f47fb48c/image" />
     <episode-num system="SxxExx">S01E01</episode-num>
@@ -1249,7 +1229,7 @@
   </programme>
   <programme start="20261126103500 +0000" stop="20261126113500 +0000" channel="mjh-abc-act">
     <title>Shakedown</title>
-    <sub-title>Episode 1 of Season 1</sub-title>
+    <sub-title>Episode 1</sub-title>
     <desc>A brutal automated welfare scheme unravels lives, as a Royal Commission exposes the systemic failures and political decisions behind the Robodebt scandal.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131e1d0646f0f47fb48c/image" />
     <episode-num system="SxxExx">S01E01</episode-num>
@@ -1474,7 +1454,7 @@
   </programme>
   <programme start="20261127025000 +0000" stop="20261127033500 +0000" channel="mjh-abc-act">
     <title>Shakedown</title>
-    <sub-title>Episode 1 of Season 1</sub-title>
+    <sub-title>Episode 1</sub-title>
     <desc>A brutal automated welfare scheme unravels lives, as a Royal Commission exposes the systemic failures and political decisions behind the Robodebt scandal.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131e1d0646f0f47fb48c/image" />
     <episode-num system="SxxExx">S01E01</episode-num>
@@ -2159,7 +2139,7 @@
   </programme>
   <programme start="20261129092000 +0000" stop="20261129101000 +0000" channel="mjh-abc-act">
     <title>Shakedown</title>
-    <sub-title>Episode 2 of Season 1</sub-title>
+    <sub-title>Episode 2</sub-title>
     <desc>When Robodebt's human cost rises, victims start speaking out against it - unaware that its architects will do whatever it takes to silence opposition.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/131e1d0646f0f47fb48c/image" />
     <episode-num system="SxxExx">S01E02</episode-num>
@@ -2339,19 +2319,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261123010000 +0000" stop="20261123030100 +0000" channel="mjh-channel-9-nsw">
-    <title>A Remarkable Place To Die</title>
-    <sub-title>Pistols at Dawn</sub-title>
-    <desc>Her covert family investigation grows increasingly dangerous. Meanwhile, Kylie joins the efforts as the local threat landscape intensifies.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/63382289519089bfcd44/image" />
-    <episode-num system="SxxExx">S2026E02</episode-num>
-    <episode-num system="xmltv_ns">2025.1.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20261123030100 +0000" stop="20261123035900 +0000" channel="mjh-channel-9-nsw">
     <title>Pointless</title>
     <sub-title>Episode 30</sub-title>
@@ -2483,7 +2450,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261123132900 +0000" stop="20261123143700 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261123132900 +0000" stop="20261123142900 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point</title>
     <sub-title>Episode 41</sub-title>
     <desc>Jess, Lewys, and Jacki are the contestants.</desc>
@@ -2494,6 +2461,19 @@
     <episode-num system="original-air-date">2026-11-23</episode-num>
     <rating>
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123142900 +0000" stop="20261123143700 +0000" channel="mjh-channel-9-nsw">
+    <title>Explore</title>
+    <sub-title>Canterbury Abbey</sub-title>
+    <desc>Explore TV takes you around the world to places you'll never forget.</desc>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/09c9aac85dc035127ca5/image" />
+    <episode-num system="SxxExx">S02E52</episode-num>
+    <episode-num system="xmltv_ns">1.51.</episode-num>
+    <episode-num system="original-air-date">2026-11-23</episode-num>
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20261123143700 +0000" stop="20261123150500 +0000" channel="mjh-channel-9-nsw">
@@ -3831,7 +3811,7 @@
   </programme>
   <programme start="20261127183000 +0000" stop="20261127190000 +0000" channel="mjh-channel-9-nsw">
     <title>Postcards</title>
-    <sub-title>Episode 37 of Season 2026</sub-title>
+    <sub-title>Episode 37</sub-title>
     <desc>Brodie tours a stunning prize home on the Gold Coast. Livinia visits the newly reopened Clover Cottage in Berwick. Peter Hitchener joins to take us around the Royal Botanic Gardens. And Sammy J meets the cast of Mrs Doubtfire the Musical.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/f3aaa53321ee42019a43/image" />
@@ -3910,7 +3890,7 @@
   </programme>
   <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="mjh-channel-9-nsw">
     <title>Getaway</title>
-    <sub-title>Episode 42 of Season 2026</sub-title>
+    <sub-title>Episode 42</sub-title>
     <desc>This week on Getaway we are cruising on the world's most beautiful lagoon, heading to Tamworth to soak up the vibe of the country music capital plus checking out what's new in Melbourne.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/f8c1adb94c28df5fee91/image" />
@@ -3991,7 +3971,7 @@
   </programme>
   <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="mjh-channel-9-nsw">
     <title>The Garden Gurus</title>
-    <sub-title>Episode 15 of Season 41</sub-title>
+    <sub-title>Episode 15</sub-title>
     <desc>This week on The Garden Gurus, Sue shares some helpful tips for keeping your plants healthy and thriving, while Trevor explores a sustainable hotel with great ideas you can put to use in your own home.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/87125b97edeb61f0b37a/image" />
@@ -4094,8 +4074,8 @@
   </programme>
   <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="mjh-channel-9-nsw">
     <title>Helping Hands</title>
-    <sub-title>Episode 40 of Season 4</sub-title>
-    <desc>What does an effective charity look like? And how do you decide which charity to support?  A feature panel discussion with the Chatleigh Foundation, Mission Australia and Clean Up Australia. helpinghands.tv</desc>
+    <sub-title>Episode 40</sub-title>
+    <desc>What does an effective charity look like? And how do you decide which charity to support? A feature panel discussion with the Chatleigh Foundation, Mission Australia and Clean Up Australia.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/966c9988d382f9d428b4/image" />
     <episode-num system="SxxExx">S04E40</episode-num>
@@ -4441,45 +4421,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261123010000 +0000" stop="20261123014655 +0000" channel="mjh-seven-syd">
-    <title>Blankety Blank</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>The celebrities joining Bradley Walsh include Richard Ayoade, Alex Jones and Nadia Jae.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c5389b7f8fcb08006e52/image" />
-    <episode-num system="SxxExx">S05E02</episode-num>
-    <episode-num system="xmltv_ns">4.1.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261123014655 +0000" stop="20261123023905 +0000" channel="mjh-seven-syd">
-    <title>Blankety Blank</title>
-    <sub-title>Episode 1</sub-title>
-    <desc>The legendary Blankety Blank is back! Bradley Walsh hosts as a panel of six celebrities fill in the missing BLANKS and help win some brilliant prizes for some lucky contestants.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c5389b7f8fcb08006e52/image" />
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261123023905 +0000" stop="20261123030140 +0000" channel="mjh-seven-syd">
-    <title>Motorbike Cops</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>The good old Aussie humour and no-nonsense policing of these coppers are leaving a mark on Sydney's drivers - and their hearts. But what will they do when an unexpected van catches fire?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5018625ec45ea5cb80fa/image" />
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261123030140 +0000" stop="20261123040110 +0000" channel="mjh-seven-syd">
     <title>Bridge Of Lies</title>
     <sub-title>Episode 22 of Season 1</sub-title>
@@ -4519,7 +4460,7 @@
   <programme start="20261123055810 +0000" stop="20261123065930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 75 of Season 15</sub-title>
-    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
+    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/711c29e03e84ab44526b/image" />
     <episode-num system="SxxExx">S15E75</episode-num>
@@ -4816,7 +4757,7 @@
   <programme start="20261124055805 +0000" stop="20261124065930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 15 of Season 16</sub-title>
-    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
+    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/711c29e03e84ab44526b/image" />
     <episode-num system="SxxExx">S16E15</episode-num>
@@ -5070,7 +5011,7 @@
   <programme start="20261125055810 +0000" stop="20261125065930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 81 of Season 15</sub-title>
-    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
+    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/711c29e03e84ab44526b/image" />
     <episode-num system="SxxExx">S15E81</episode-num>
@@ -5337,7 +5278,7 @@
   <programme start="20261126055805 +0000" stop="20261126065930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 16 of Season 16</sub-title>
-    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
+    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/711c29e03e84ab44526b/image" />
     <episode-num system="SxxExx">S16E16</episode-num>
@@ -5597,7 +5538,7 @@
   <programme start="20261127055810 +0000" stop="20261127065930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 68 of Season 15</sub-title>
-    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
+    <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/711c29e03e84ab44526b/image" />
     <episode-num system="SxxExx">S15E68</episode-num>
@@ -5619,7 +5560,7 @@
   </programme>
   <programme start="20261127080030 +0000" stop="20261127083000 +0000" channel="mjh-seven-syd">
     <title>Better Homes And Gardens</title>
-    <sub-title>Episode 63 of Season 32</sub-title>
+    <sub-title>Episode 63</sub-title>
     <desc>Joh and Juliet meet Lindt Master Chocolatier, Thomas Schnetzler. Charlie turns free little succulent cuttings into a bouquet. Dr Harry visits the Australian Reptile Park.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/f62466aca1e8f067d6e1/image" />
@@ -5981,7 +5922,7 @@
   </programme>
   <programme start="20261129010000 +0000" stop="20261129020000 +0000" channel="mjh-seven-syd">
     <title>Better Homes And Gardens</title>
-    <sub-title>Episode 59 of Season 32</sub-title>
+    <sub-title>Episode 59</sub-title>
     <desc>Joh's meets Rally4Ever founder and champion tennis great, Louise Pleming. Charlie shares his best lawn tips. Graham's getting his hands dirty at a thriving community fresh produce garden.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/f62466aca1e8f067d6e1/image" />
@@ -6162,43 +6103,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="mjh-10-nsw">
-    <title>Farm to Fork</title>
-    <sub-title>Episode 16</sub-title>
-    <desc>Chefs travel across Australia seeking fresh local produce to create inspiring home recipes.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4ffaa063faca3297c1a2/image" />
-    <episode-num system="SxxExx">S08E16</episode-num>
-    <episode-num system="xmltv_ns">7.15.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="mjh-10-nsw">
-    <title>Millionaire Hot Seat</title>
-    <sub-title>Episode 172</sub-title>
-    <desc>Six contestants tackle fifteen questions for the jackpot, including an economist who scored a penalty against a Socceroo, a theme-park-loving content creator, and one man dreaming of the Grand Canyon</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f348f0a2ee0f071db799/image" />
-    <episode-num system="SxxExx">S16E172</episode-num>
-    <episode-num system="xmltv_ns">15.171.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="mjh-10-nsw">
-    <title>10 News: Lunchtime</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/de75598e9717b3fa4d9a/image" />
-    <episode-num system="SxxExx">S2026E226</episode-num>
-    <episode-num system="xmltv_ns">2025.225.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
-  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123030000 +0000" stop="20261123033020 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal</title>
     <sub-title>Episode 1 of Season 3</sub-title>
     <desc>Mackenzie Verga is Twilight obsessed and wants to take her friend Marcelle to the annual festival in Washington. But first she'll need to get past The Deal's resident vampire, The Banker.</desc>
@@ -6211,7 +6116,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261123033000 +0000" stop="20261123043000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123033020 +0000" stop="20261123042919 +0000" channel="mjh-10-nsw">
     <title>The Finish Line</title>
     <sub-title>Episode 21</sub-title>
     <desc>A quiz show in which 5 players race against each other by answering general knowledge questions. The challenge is to stay in the race.</desc>
@@ -6224,7 +6129,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261123043000 +0000" stop="20261123053000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123042919 +0000" stop="20261123053057 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
     <sub-title>Episode 29</sub-title>
     <desc>Fighting it out in this episode are Cumbrian couple Kevin and Michelle, flatmates Shantelle and Vanessa, and sporty partners Gemma and James.</desc>
@@ -6237,7 +6142,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123053057 +0000" stop="20261123060000 +0000" channel="mjh-10-nsw">
     <title>The Bold and the Beautiful</title>
     <sub-title>Episode 9908</sub-title>
     <desc>Bill fights to justify his actions as the fallout continues. Sheila makes an impassioned plea for a future with Deacon.</desc>
@@ -6260,7 +6165,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2025.232.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123073000 +0000" stop="20261123080014 +0000" channel="mjh-10-nsw">
     <title>Deal Or No Deal</title>
     <sub-title>Episode 147 of Season 3</sub-title>
     <desc>Jake Lazzari is a Pokemon playing superstar who wants to take his skills to the next Pokemon world cup</desc>
@@ -6273,7 +6178,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123083000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123080014 +0000" stop="20261123083119 +0000" channel="mjh-10-nsw">
     <title>Millionaire Hot Seat</title>
     <sub-title>Episode 169</sub-title>
     <desc>A high school maths teacher and a retired principal are among the six contestants hoping to take home one million dollars.</desc>
@@ -6286,7 +6191,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261123083000 +0000" stop="20261123094000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123083119 +0000" stop="20261123094004 +0000" channel="mjh-10-nsw">
     <title>Big Brother</title>
     <sub-title>Episode 25</sub-title>
     <desc>Housemates compete to win $250,000, under Big Brother's constant watchful eye.</desc>
@@ -6296,7 +6201,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">16.24.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123094000 +0000" stop="20261123104000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123094004 +0000" stop="20261123104429 +0000" channel="mjh-10-nsw">
     <title>Sam Pang Tonight</title>
     <sub-title>Episode 6</sub-title>
     <desc>A weekly Tonight show hosted by Sam Pang. Featuring a monologue roasting the news of the week, a mix of local and international guests, and plenty of Sam's friends from across the comedy world.</desc>
@@ -6309,7 +6214,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261123104000 +0000" stop="20261123114000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123104429 +0000" stop="20261123113839 +0000" channel="mjh-10-nsw">
     <title>10's Late News</title>
     <sub-title>Monday 23 November 2026</sub-title>
     <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
@@ -6319,7 +6224,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2025.225.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123114000 +0000" stop="20261123124000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123113839 +0000" stop="20261123123716 +0000" channel="mjh-10-nsw">
     <title>Australian True Crime With Meshel Laurie</title>
     <sub-title>Lauren Cassimatis - Life Without Parole</sub-title>
     <desc>Lawyer Lauren Cassimatis unpacks the crime, trial, and legal questions around Katherine Knight, the only Australian woman jailed for life without parole.</desc>
@@ -6332,7 +6237,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261123124000 +0000" stop="20261123131000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123123716 +0000" stop="20261123130523 +0000" channel="mjh-10-nsw">
     <title>Two And A Half Men</title>
     <sub-title>Frodo's Headshots</sub-title>
     <desc>Upon his return from the stress clinic Alan finds out that Jake got his girlfriend pregnant, Walden and Lyndsey are sleeping together, and he has to move out immediately.</desc>
@@ -6345,7 +6250,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261123131000 +0000" stop="20261123133000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123130523 +0000" stop="20261123133000 +0000" channel="mjh-10-nsw">
     <title>Two And A Half Men</title>
     <sub-title>A Fishbowl Full Of Glass Eyes</sub-title>
     <desc>After Jake talks Walden into asking out a woman he meets at a supermarket, Alan considers hocking Walden's incredibly expensive wedding ring to get out of debt.</desc>
@@ -6358,7 +6263,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123133000 +0000" stop="20261123140655 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 1 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6368,7 +6273,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.0.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123140655 +0000" stop="20261123143600 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 303 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6378,7 +6283,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.302.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123143600 +0000" stop="20261123150450 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 304 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6388,7 +6293,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.303.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123150450 +0000" stop="20261123153455 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 305 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6398,7 +6303,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.304.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123153000 +0000" stop="20261123160000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123153455 +0000" stop="20261123160400 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 306 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6408,7 +6313,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.305.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123163000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123160400 +0000" stop="20261123163435 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 307 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6418,7 +6323,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.306.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123163435 +0000" stop="20261123170325 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 308 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6428,7 +6333,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.307.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123170325 +0000" stop="20261123173230 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 309 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6438,7 +6343,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.308.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123173000 +0000" stop="20261123180000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123173230 +0000" stop="20261123180140 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 310 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6448,7 +6353,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.309.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123180140 +0000" stop="20261123183030 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 311 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6458,7 +6363,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.310.</episode-num>
     <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
-  <programme start="20261123183000 +0000" stop="20261123190000 +0000" channel="mjh-10-nsw">
+  <programme start="20261123183030 +0000" stop="20261123190000 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 312 of Season 2019</sub-title>
     <desc>Synopsis</desc>
@@ -6519,8 +6424,8 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
   </programme>
   <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
-    <sub-title>Episode 12 of Season 5</sub-title>
-    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <sub-title>Episode 12</sub-title>
+    <desc>Three pairs compete against each other to find the mystery words hidden behind the game panel, but only one pair per day will win the prize.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6550ab8861e426271b43/image" />
     <episode-num system="SxxExx">S05E12</episode-num>
@@ -6956,8 +6861,8 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
   </programme>
   <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
-    <sub-title>Episode 13 of Season 5</sub-title>
-    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <sub-title>Episode 13</sub-title>
+    <desc>Three pairs compete against each other to find the mystery words hidden behind the game panel, but only one pair per day will win the prize.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6550ab8861e426271b43/image" />
     <episode-num system="SxxExx">S05E13</episode-num>
@@ -7376,8 +7281,8 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
   </programme>
   <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
-    <sub-title>Episode 14 of Season 5</sub-title>
-    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <sub-title>Episode 14</sub-title>
+    <desc>Three pairs compete against each other to find the mystery words hidden behind the game panel, but only one pair per day will win the prize.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6550ab8861e426271b43/image" />
     <episode-num system="SxxExx">S05E14</episode-num>
@@ -8299,8 +8204,8 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
   </programme>
   <programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="mjh-10-nsw">
     <title>Buy To Build</title>
-    <sub-title>Episode 4 of Season 9</sub-title>
-    <desc>A weekly real estate show hosted by Walt Collins featuring the latest build in Australia and the hottest new precincts, each week one lucky couple gets to pick the best property of the three.</desc>
+    <sub-title>Episode 4</sub-title>
+    <desc>Each episode, Walt Collins helps house hunters explore the country's latest display homes and land developments to find the perfect home to suit their needs.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/e420edf53c45802da822/image" />
     <episode-num system="SxxExx">S09E04</episode-num>
@@ -9092,59 +8997,6 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="SxxExx">S17E29</episode-num>
     <episode-num system="xmltv_ns">16.28.</episode-num>
     <episode-num system="original-air-date">2026-11-29</episode-num>
-  </programme>
-  <programme start="20261123002000 +0000" stop="20261123011000 +0000" channel="mjh-sbs-sbst">
-    <title>Susan Calman's Grand Day Out</title>
-    <sub-title>South Welsh Coast</sub-title>
-    <desc>Susan Calman explores South Wales, discovering castles, coastal scenery and local traditions. From Cardiff and Caerphilly to the Gower Peninsula, she enjoys another memorable adventure.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8ae4a0b1dc3adf929fa8/image" />
-    <episode-num system="SxxExx">S04E03</episode-num>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261123011000 +0000" stop="20261123013000 +0000" channel="mjh-sbs-sbst">
-    <title>BBC News At Ten</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/973de3d3d31e29cbf584/image" />
-    <episode-num system="SxxExx">S2026E1123</episode-num>
-    <episode-num system="xmltv_ns">2025.1122.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
-  <programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="mjh-sbs-sbst">
-    <title>France 24 International SBS Midday</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/55d581c14d6ff3a3bb9c/image" />
-    <episode-num system="SxxExx">S2026E1123</episode-num>
-    <episode-num system="xmltv_ns">2025.1122.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="mjh-sbs-sbst">
-    <title>Compass Points from PBS News</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>Join PBS News Hour's Nick Schifrin and leading experts as they analyse prominent international affairs topics and their impact on America today.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e1d125b300b8c1be8f1d/image" />
-    <episode-num system="SxxExx">S2026E1123</episode-num>
-    <episode-num system="xmltv_ns">2025.1122.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
-  <programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="mjh-sbs-sbst">
-    <title>Al Jazeera News Second Edition</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8ecdb09359a8be5cb834/image" />
-    <episode-num system="SxxExx">S2026E1123</episode-num>
-    <episode-num system="xmltv_ns">2025.1122.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
   <programme start="20261123030000 +0000" stop="20261123041000 +0000" channel="mjh-sbs-sbst">
     <title>Scottish Islands With Ben Fogle</title>
@@ -11954,26 +11806,6 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="mjh-abc-news">
-    <title>ABC News At Noon</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>The leading news at lunchtime. Kathryn Robinson brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/52a56d42b326025bbce9/image" />
-    <episode-num system="SxxExx">S2026E233</episode-num>
-    <episode-num system="xmltv_ns">2025.232.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="mjh-abc-news">
-    <title>ABC News Day</title>
-    <sub-title>Monday 23 November 2026</sub-title>
-    <desc>The home of breaking news, rolling coverage and live updates on the day's top stories. Stay in the know throughout the afternoon as Kathryn Robinson brings you the latest news and analysis from reporters and guests.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/181525172fa62d511612/image" />
-    <episode-num system="SxxExx">S2026E233</episode-num>
-    <episode-num system="xmltv_ns">2025.232.</episode-num>
-    <episode-num system="original-air-date">2026-11-23</episode-num>
   </programme>
   <programme start="20261123030000 +0000" stop="20261123041000 +0000" channel="mjh-abc-news">
     <title>Parliament Question Time</title>
