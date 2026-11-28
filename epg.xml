@@ -31,29 +31,6 @@
     <lcn>24</lcn>
     <icon src="https://i.mjh.nz/.images/abc-news.png" />
   </channel>
-  <programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="mjh-abc-act">
-    <title>ABC News At Noon</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/52a56d42b326025bbce9/image" />
-    <episode-num system="SxxExx">S2026E95</episode-num>
-    <episode-num system="xmltv_ns">2025.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128013000 +0000" stop="20261128023000 +0000" channel="mjh-abc-act">
-    <title>Return To Paradise</title>
-    <sub-title>Built to Kill</sub-title>
-    <desc>When a tradie falls to his death on a Dolphin Cove building site, what looks like a tragic workplace accident soon becomes a murder scene. But how could he have been pushed when he was up on the roof alone?</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/188faaa2d8a89ad18b6d/image" />
-    <episode-num system="SxxExx">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20261128023000 +0000" stop="20261128031500 +0000" channel="mjh-abc-act">
     <title>Saint-Pierre</title>
     <sub-title>Death at a Funeral</sub-title>
@@ -2366,15 +2343,57 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261128060000 +0000" channel="mjh-channel-9-nsw">
-    <title>Australian PGA Championship</title>
-    <sub-title>Day 3</sub-title>
-    <desc>Wide World of Sports presents The BMW Australian PGA Championship live from the Lakes Golf Club, Eastlakes, Sydney. Live play from 12:00PM AEDT.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4b898b19f6fbc71fdd11/image" />
-    <episode-num system="SxxExx">S2026E03</episode-num>
-    <episode-num system="xmltv_ns">2025.2.</episode-num>
+  <programme start="20261128030000 +0000" stop="20261128033100 +0000" channel="mjh-channel-9-nsw">
+    <title>A Golf Club Somewhere</title>
+    <sub-title>Charleston</sub-title>
+    <desc>Andrew Daddo explores Charlestown Golf Course, the 2023 Golf NSW Country Club of the Year. Set in picturesque Lake Macquarie bushland, it delivers award-winning facilities and an engaging challenge for golfers of all skill levels.</desc>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/ed4a979b10bf747b1d5f/image" />
+    <episode-num system="SxxExx">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20261128033100 +0000" stop="20261128042900 +0000" channel="mjh-channel-9-nsw">
+    <title>For the Love of Pets</title>
+    <sub-title>Episode 3 of Season 3</sub-title>
+    <desc>QVS vets race to save unresponsive kelpie Alvin, while RSPCA Queensland treats British Shorthair cats Ghost and Buster, evaluates dachshund Delilah's heart, and investigates a poodle's mysterious cough.</desc>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/ae61a468a84dbe0b3cde/image" />
+    <episode-num system="SxxExx">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="original-air-date">2026-11-28</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128042900 +0000" stop="20261128052900 +0000" channel="mjh-channel-9-nsw">
+    <title>Taronga: Who's Who In The Zoo</title>
+    <sub-title>Goodbye Gorillas</sub-title>
+    <desc>At Taronga Zoo Sydney, pre-transfer checks for three gorillas turn tense when a suspicious mass is found on senior female Frala, while keepers upgrade nesting boxes to aid breeding red pandas.</desc>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/46498aaef02f59200970/image" />
+    <episode-num system="SxxExx">S07E04</episode-num>
+    <episode-num system="xmltv_ns">6.3.</episode-num>
+    <episode-num system="original-air-date">2026-11-28</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128052900 +0000" stop="20261128060000 +0000" channel="mjh-channel-9-nsw">
+    <title>The Garden Gurus</title>
+    <sub-title>Episode 15 of Season 41</sub-title>
+    <desc>This week on The Garden Gurus, Simon shares some helpful tips for keeping your plants healthy and thriving, while Trevor explores a sustainable hotel with great ideas you can put to use in your own home.</desc>
+    <category>Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/87125b97edeb61f0b37a/image" />
+    <episode-num system="SxxExx">S41E15</episode-num>
+    <episode-num system="xmltv_ns">40.14.</episode-num>
+    <episode-num system="original-air-date">2026-11-28</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20261128060000 +0000" stop="20261128062400 +0000" channel="mjh-channel-9-nsw">
     <title>9News First at Five</title>
@@ -2469,8 +2488,8 @@
   </programme>
   <programme start="20261128144300 +0000" stop="20261128151000 +0000" channel="mjh-channel-9-nsw">
     <title>The Garden Gurus</title>
-    <sub-title>Episode 15</sub-title>
-    <desc>This week on The Garden Gurus, Sue shares some helpful tips for keeping your plants healthy and thriving, while Trevor explores a sustainable hotel with great ideas you can put to use in your own home.</desc>
+    <sub-title>Episode 15 of Season 41</sub-title>
+    <desc>This week on The Garden Gurus, Simon shares some helpful tips for keeping your plants healthy and thriving, while Trevor explores a sustainable hotel with great ideas you can put to use in your own home.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/87125b97edeb61f0b37a/image" />
     <episode-num system="SxxExx">S41E15</episode-num>
@@ -2955,7 +2974,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261130050000 +0000" stop="20261130060000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130050000 +0000" stop="20261130055600 +0000" channel="mjh-channel-9-nsw">
     <title>9News Afternoon</title>
     <sub-title>Monday 30 November 2026</sub-title>
     <desc>9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.</desc>
@@ -2965,7 +2984,7 @@
     <episode-num system="xmltv_ns">2025.237.</episode-num>
     <episode-num system="original-air-date">2026-11-30</episode-num>
   </programme>
-  <programme start="20261130060000 +0000" stop="20261130070000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130055600 +0000" stop="20261130065900 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point Australia</title>
     <sub-title>Episode 75</sub-title>
     <desc>Tipping Point Australia will push contestants' luck to the very edge. Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.</desc>
@@ -2978,7 +2997,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261130070000 +0000" stop="20261130080000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130065900 +0000" stop="20261130080000 +0000" channel="mjh-channel-9-nsw">
     <title>9News</title>
     <sub-title>Monday 30 November 2026</sub-title>
     <desc>Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.</desc>
@@ -2988,7 +3007,7 @@
     <episode-num system="xmltv_ns">2025.237.</episode-num>
     <episode-num system="original-air-date">2026-11-30</episode-num>
   </programme>
-  <programme start="20261130080000 +0000" stop="20261130083000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130080000 +0000" stop="20261130083100 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
     <sub-title>Monday 30 November 2026</sub-title>
     <desc>A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.</desc>
@@ -2998,7 +3017,7 @@
     <episode-num system="xmltv_ns">2025.237.</episode-num>
     <episode-num system="original-air-date">2026-11-30</episode-num>
   </programme>
-  <programme start="20261130083000 +0000" stop="20261130094000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130083100 +0000" stop="20261130094000 +0000" channel="mjh-channel-9-nsw">
     <title>Travel Guides</title>
     <sub-title>Cook Islands</sub-title>
     <desc>Our Guides have grabbed sun hats for a Pacific island escape to the Cook Islands. But it's not just a drop and flop kind of holiday, there's action and adventure around every corner, including the jaw-droppingly gorgeous Aitutaki Lagoon.</desc>
@@ -3011,7 +3030,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261130094000 +0000" stop="20261130112000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130094000 +0000" stop="20261130112100 +0000" channel="mjh-channel-9-nsw">
     <title>Love Island: Australia</title>
     <sub-title>Episode 21</sub-title>
     <desc>Hotel Amor saw four new bombs test couples connections, and the fallout is causing friction and fighting in the Villa. Strap in because it's drama, drama and more drama!</desc>
@@ -3024,7 +3043,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20261130112000 +0000" stop="20261130123500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130112100 +0000" stop="20261130123500 +0000" channel="mjh-channel-9-nsw">
     <title>Destination X</title>
     <sub-title>Let the Deceit Begin</sub-title>
     <desc>A night in a spooky castle has the passengers on edge, and loyalties are tested when it comes to sharing clues to Destination X.</desc>
@@ -3037,7 +3056,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261130123500 +0000" stop="20261130133000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130123500 +0000" stop="20261130132500 +0000" channel="mjh-channel-9-nsw">
     <title>NBL Overtime</title>
     <sub-title>Episode 12</sub-title>
     <desc>NBL Overtime provides the latest basketball news and analysis on the 2026/2027 NBL season.</desc>
@@ -3050,7 +3069,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261130133000 +0000" stop="20261130143000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130132500 +0000" stop="20261130143700 +0000" channel="mjh-channel-9-nsw">
     <title>Tipping Point</title>
     <sub-title>Episode 47 of Season 12</sub-title>
     <desc>Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.</desc>
@@ -3063,7 +3082,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261130143000 +0000" stop="20261130150000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130143700 +0000" stop="20261130150600 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Kelton Cookware</sub-title>
     <desc>Home shopping programme.</desc>
@@ -3076,7 +3095,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261130150000 +0000" stop="20261130153000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130150600 +0000" stop="20261130153400 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Total Gym Fit</sub-title>
     <desc>Home shopping programme.</desc>
@@ -3089,7 +3108,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261130153000 +0000" stop="20261130160000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130153400 +0000" stop="20261130160300 +0000" channel="mjh-channel-9-nsw">
     <title>Global Shop</title>
     <sub-title>Pocket Hose Copper Bullet</sub-title>
     <desc>Home shopping programme.</desc>
@@ -3102,7 +3121,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261130160000 +0000" stop="20261130163000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130160300 +0000" stop="20261130163100 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>OrganizeMe</sub-title>
     <desc>Home shopping programme.</desc>
@@ -3115,7 +3134,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261130163000 +0000" stop="20261130170000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130163100 +0000" stop="20261130170000 +0000" channel="mjh-channel-9-nsw">
     <title>TV Shop - Home Shopping</title>
     <sub-title>Kelton Cookware</sub-title>
     <desc>Home shopping programme.</desc>
@@ -3128,7 +3147,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261130170000 +0000" stop="20261130173000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130170000 +0000" stop="20261130173200 +0000" channel="mjh-channel-9-nsw">
     <title>Skippy</title>
     <sub-title>Cobber</sub-title>
     <desc>Sonny and Skippy become involved in a bitter feud between two old, hard-headed bushmen when they see one of them practising a sheep-dog trial in the Waratah National Park.</desc>
@@ -3141,7 +3160,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261130173000 +0000" stop="20261130180000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130173200 +0000" stop="20261130180000 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
     <sub-title>Monday 30 November 2026</sub-title>
     <desc>A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.</desc>
@@ -3151,7 +3170,7 @@
     <episode-num system="xmltv_ns">2025.237.</episode-num>
     <episode-num system="original-air-date">2026-11-30</episode-num>
   </programme>
-  <programme start="20261130180000 +0000" stop="20261130183000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130180000 +0000" stop="20261130182900 +0000" channel="mjh-channel-9-nsw">
     <title>Today Early News</title>
     <sub-title>Tuesday 1 December 2026</sub-title>
     <desc>Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.</desc>
@@ -3161,7 +3180,7 @@
     <episode-num system="xmltv_ns">2025.238.</episode-num>
     <episode-num system="original-air-date">2026-11-30</episode-num>
   </programme>
-  <programme start="20261130183000 +0000" stop="20261130220000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261130182900 +0000" stop="20261130220000 +0000" channel="mjh-channel-9-nsw">
     <title>Today</title>
     <sub-title>Tuesday 1 December 2026</sub-title>
     <desc>Join Sylvia Jeffreys and Tom Steinfort along with the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.</desc>
@@ -3272,7 +3291,7 @@
     <episode-num system="xmltv_ns">2025.238.</episode-num>
     <episode-num system="original-air-date">2026-12-01</episode-num>
   </programme>
-  <programme start="20261201083000 +0000" stop="20261201093000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261201083000 +0000" stop="20261201094000 +0000" channel="mjh-channel-9-nsw">
     <title>Heal: A Princess Of Wales Special</title>
     <desc>Heal follows The Princess of Wales as she undertakes the National Three Peaks Challenge in support of The Royal Marsden Cancer Charity while exploring life beyond diagnosis and recovery from serious illness.</desc>
     <category>Special Interest</category>
@@ -3281,7 +3300,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201093000 +0000" stop="20261201103500 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261201094000 +0000" stop="20261201104500 +0000" channel="mjh-channel-9-nsw">
     <title>Jamie Durie's Future House</title>
     <sub-title>Containers Become Home</sub-title>
     <desc>Sean and Jess's container home heads to site as Jamie investigates faster construction, housing red tape and preparing homes for extreme weather.</desc>
@@ -3294,7 +3313,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201103500 +0000" stop="20261201115000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261201104500 +0000" stop="20261201120500 +0000" channel="mjh-channel-9-nsw">
     <title>Love Island: Australia</title>
     <sub-title>Episode 22</sub-title>
     <desc>Relationships are in need of a rescue, so the Islanders play a game of SOS - Save Our Smooch! Finally it's time for some fun, but the drama is very far from over.</desc>
@@ -3307,7 +3326,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261201115000 +0000" stop="20261201124000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261201120500 +0000" stop="20261201125500 +0000" channel="mjh-channel-9-nsw">
     <title>The Summer I Turned Pretty</title>
     <sub-title>Summer House</sub-title>
     <desc>Belly, her brother, and mom head to Cousins beach to stay with Susannah Fisher and her sons, Conrad and Jeremiah. These two close families have spent every summer together. But this summer in Cousins is different.</desc>
@@ -3320,7 +3339,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261201124000 +0000" stop="20261201134000 +0000" channel="mjh-channel-9-nsw">
+  <programme start="20261201125500 +0000" stop="20261201140000 +0000" channel="mjh-channel-9-nsw">
     <title>American Crime Story</title>
     <sub-title>Creator/Destroyer</sub-title>
     <desc>Andrew Cunanan leaves behind a troubled family life, while Donatella Versace struggles to find her role within the Versace empire.</desc>
@@ -3333,17 +3352,17 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20261201134000 +0000" stop="20261201143000 +0000" channel="mjh-channel-9-nsw">
-    <title>Tipping Point</title>
-    <sub-title>Episode 48</sub-title>
-    <desc>Ben Shephard hosts as Tina, Matt and Lauren answer questions and take on the machine for a cash jackpot.</desc>
+  <programme start="20261201140000 +0000" stop="20261201143000 +0000" channel="mjh-channel-9-nsw">
+    <title>Next Stop</title>
+    <sub-title>Thailand and Nepal</sub-title>
+    <desc>A quick plunge into the sights, sounds, history and flavours of your next destination.</desc>
     <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/b62349957725f8e93e35/image" />
-    <episode-num system="SxxExx">S12E48</episode-num>
-    <episode-num system="xmltv_ns">11.47.</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/274bc84d61d7d84c0143/image" />
+    <episode-num system="SxxExx">S02E12</episode-num>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
     <episode-num system="original-air-date">2026-12-01</episode-num>
     <rating>
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20261201143000 +0000" stop="20261201150000 +0000" channel="mjh-channel-9-nsw">
@@ -4345,42 +4364,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261127230000 +0000" stop="20261128020000 +0000" channel="mjh-seven-syd">
-    <title>The Morning Show - Weekend</title>
-    <sub-title>Episode 45 of Season 26</sub-title>
-    <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f9a27d1acc37a27bdb00/image" />
-    <episode-num system="SxxExx">S26E45</episode-num>
-    <episode-num system="xmltv_ns">25.44.</episode-num>
-    <episode-num system="original-air-date">2026-11-27</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128020000 +0000" stop="20261128022053 +0000" channel="mjh-seven-syd">
-    <title>Supercars</title>
-    <sub-title>Adelaide Grand Final - Day 1 Qualifying &amp; Supports</sub-title>
-    <desc>The Grand Final 2026 Supercars Championship returns to Adelaide where the winner will be decided. Live and free from Adelaide Parklands.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/00ccc94e33b7132cd354/image" />
-    <episode-num system="SxxExx">S26E20</episode-num>
-    <episode-num system="xmltv_ns">25.19.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128022053 +0000" stop="20261128024918 +0000" channel="mjh-seven-syd">
-    <title>Surf Patrol</title>
-    <sub-title>Episode 4 of Season 1</sub-title>
-    <desc>At notorious Gunnamatta Beach in Victoria, a beautiful summer's day turns to disaster for an entire family who get caught in a rip. Meanwhile, on the Gold Coast, two brothers disappear on the beach, and at Sydney's North Cronulla, treacherous surf brings a routine boat patrol to a spectacular conclusion.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3e06e01c98ed9d843e20/image" />
-    <episode-num system="SxxExx">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128024918 +0000" stop="20261128040000 +0000" channel="mjh-seven-syd">
     <title>Border Security: Canada's Front Line</title>
     <sub-title>Episode 16</sub-title>
@@ -4654,7 +4637,7 @@
     <episode-num system="xmltv_ns">25.22.</episode-num>
     <episode-num system="original-air-date">2026-11-29</episode-num>
   </programme>
-  <programme start="20261129105000 +0000" stop="20261129114000 +0000" channel="mjh-seven-syd">
+  <programme start="20261129105000 +0000" stop="20261129115605 +0000" channel="mjh-seven-syd">
     <title>The Speedboat Killer</title>
     <sub-title>The Killing Of Charlotte Brown Pt 1</sub-title>
     <desc>This documentary tells the dramatic case of an online date. Jack wined and dined Charlotte before offering her a ride on his speedboat. Hours later, Charlotte's body was lifted from the water.</desc>
@@ -4667,7 +4650,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261129114000 +0000" stop="20261129130000 +0000" channel="mjh-seven-syd">
+  <programme start="20261129115605 +0000" stop="20261129131100 +0000" channel="mjh-seven-syd">
     <title>Crime Investigation Australia</title>
     <sub-title>Baby In The Suitcase</sub-title>
     <desc>The skeleton of a small girl turned up inside tattered suitcase on a dusty South Australian highway in 2015. Police knew immediately they were the remains of a murdered child.</desc>
@@ -4680,7 +4663,7 @@
       <value>MA 15+</value>
     </rating>
   </programme>
-  <programme start="20261129130000 +0000" stop="20261129140555 +0000" channel="mjh-seven-syd">
+  <programme start="20261129131100 +0000" stop="20261129140555 +0000" channel="mjh-seven-syd">
     <title>Supercars Highlights</title>
     <sub-title>Adelaide Grand Final - Day 2 - Highlights</sub-title>
     <desc>Catch all the highlights as the championship winner will be decided.</desc>
@@ -4743,7 +4726,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261129163000 +0000" stop="20261129170000 +0000" channel="mjh-seven-syd">
+  <programme start="20261129163000 +0000" stop="20261129170200 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>SSP Black Friday (SSPBF262830A)</sub-title>
     <desc>Shopping program.</desc>
@@ -4756,7 +4739,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261129170000 +0000" stop="20261129180000 +0000" channel="mjh-seven-syd">
+  <programme start="20261129170200 +0000" stop="20261129180000 +0000" channel="mjh-seven-syd">
     <title>NBC Today</title>
     <sub-title>Monday 30 November 2026</sub-title>
     <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
@@ -5121,7 +5104,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201024055 +0000" stop="20261201025830 +0000" channel="mjh-seven-syd">
+  <programme start="20261201024055 +0000" stop="20261201025825 +0000" channel="mjh-seven-syd">
     <title>Motorbike Cops</title>
     <sub-title>Episode 6 of Season 1</sub-title>
     <desc>This episode shows what it takes to be a motorbike cop, and it will surprise you! It's certainly not being able to ride at speed! A truck goes through a red light right in front of the motor bike cop.</desc>
@@ -5134,7 +5117,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201025830 +0000" stop="20261201040020 +0000" channel="mjh-seven-syd">
+  <programme start="20261201025825 +0000" stop="20261201040010 +0000" channel="mjh-seven-syd">
     <title>Bridge Of Lies</title>
     <sub-title>Episode 3</sub-title>
     <desc>Teams of contestants must be on their toes and keep their eye on the prize as they attempt to cross a bridge made of stepping stones, stepping on the truths and avoiding the lies. Hosted by Ross Kemp</desc>
@@ -5147,7 +5130,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261201040020 +0000" stop="20261201050000 +0000" channel="mjh-seven-syd">
+  <programme start="20261201040010 +0000" stop="20261201050000 +0000" channel="mjh-seven-syd">
     <title>The Chase</title>
     <sub-title>Episode 31</sub-title>
     <desc>Four people who have never met before - Richard, Suzanne, Sophie and Jay - take on the Chaser. Bradley Walsh guides the contestants through the show in the hope they'll go home with thousands of pounds.</desc>
@@ -5160,7 +5143,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261201050000 +0000" stop="20261201055805 +0000" channel="mjh-seven-syd">
+  <programme start="20261201050000 +0000" stop="20261201055840 +0000" channel="mjh-seven-syd">
     <title>Seven News At 4</title>
     <sub-title>Tuesday 1 December 2026</sub-title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
@@ -5170,7 +5153,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">25.238.</episode-num>
     <episode-num system="original-air-date">2026-12-01</episode-num>
   </programme>
-  <programme start="20261201055805 +0000" stop="20261201065930 +0000" channel="mjh-seven-syd">
+  <programme start="20261201055840 +0000" stop="20261201065930 +0000" channel="mjh-seven-syd">
     <title>The Chase Australia</title>
     <sub-title>Episode 80 of Season 15</sub-title>
     <desc>Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...</desc>
@@ -5206,7 +5189,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201083145 +0000" stop="20261201101750 +0000" channel="mjh-seven-syd">
+  <programme start="20261201083145 +0000" stop="20261201101745 +0000" channel="mjh-seven-syd">
     <title>My Kitchen Rules</title>
     <sub-title>Episode 23</sub-title>
     <desc>It's Semi Final 2 as two teams fight it out for the last spot in the MKR Grand Final.</desc>
@@ -5219,7 +5202,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201101750 +0000" stop="20261201121500 +0000" channel="mjh-seven-syd">
+  <programme start="20261201101745 +0000" stop="20261201121500 +0000" channel="mjh-seven-syd">
     <title>70 Years Of 7</title>
     <sub-title>Tuesday 1 December 2026</sub-title>
     <desc>An extraordinary television event celebrating the people, programs and moments that have informed, entertained and united Australians since Seven first flashed 'on air' in 1956.</desc>
@@ -5232,7 +5215,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201121500 +0000" stop="20261201135005 +0000" channel="mjh-seven-syd">
+  <programme start="20261201121500 +0000" stop="20261201134955 +0000" channel="mjh-seven-syd">
     <title>The Amazing Race</title>
     <sub-title>A Double-Edged Sword With An Alliance</sub-title>
     <desc>Teams get a bird's eye view of Vang Vieng, Laos and with six teams left, alliances start to crumble.</desc>
@@ -5245,7 +5228,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261201135005 +0000" stop="20261201141920 +0000" channel="mjh-seven-syd">
+  <programme start="20261201134955 +0000" stop="20261201141910 +0000" channel="mjh-seven-syd">
     <title>It's Always Sunny In Philadelphia</title>
     <sub-title>The War On Alcohol</sub-title>
     <desc>The Gang takes the trend against drinking into their own hands. Dennis, Dee, and Frank look to recruit white collar suits for happy hour while Mac and Charlie enlist blue collar factory workers.</desc>
@@ -5255,7 +5238,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">17.5.</episode-num>
     <episode-num system="original-air-date">2026-12-01</episode-num>
   </programme>
-  <programme start="20261201141920 +0000" stop="20261201153015 +0000" channel="mjh-seven-syd">
+  <programme start="20261201141910 +0000" stop="20261201153015 +0000" channel="mjh-seven-syd">
     <title>The Path</title>
     <sub-title>Oz</sub-title>
     <desc>Guilty over blackmailing members to pay off their debts, Sarah enlists Cal to speak at the World Faith Conference with her. Eddie has an epiphany about the future of The Movement, and reaches out to another Denier in the family. Hawk grows closer to Noa.</desc>
@@ -5497,7 +5480,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">25.0.</episode-num>
     <episode-num system="original-air-date">2026-12-02</episode-num>
   </programme>
-  <programme start="20261202113000 +0000" stop="20261202123625 +0000" channel="mjh-seven-syd">
+  <programme start="20261202113000 +0000" stop="20261202123630 +0000" channel="mjh-seven-syd">
     <title>Chicago Fire</title>
     <sub-title>Pierce The Vein</sub-title>
     <desc>Firefighters and paramedics work together to save lives on a regular basis. However, they also face personal issues, but they keep them aside in order to focus on their profession.</desc>
@@ -5510,7 +5493,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261202123625 +0000" stop="20261202130650 +0000" channel="mjh-seven-syd">
+  <programme start="20261202123630 +0000" stop="20261202130655 +0000" channel="mjh-seven-syd">
     <title>Renters</title>
     <sub-title>Episode 7 of Season 7</sub-title>
     <desc>Andrea from Click Property Management finds 23 marks and we’re not talking German currency, and Tracy has to rush to Bluff but it’s not for the first oysters.</desc>
@@ -5523,7 +5506,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261202130650 +0000" stop="20261202140925 +0000" channel="mjh-seven-syd">
+  <programme start="20261202130655 +0000" stop="20261202140935 +0000" channel="mjh-seven-syd">
     <title>Riviera</title>
     <sub-title>Renaissance</sub-title>
     <desc>Irina and Georgia come head to head when a body wrapped in a sail bag washes ashore. Unable to keep her silence any longer, Georgina finally reveals the truth about what happened to Adam - but warns Irena that revealing the truth may destroy what little is left of the Clios empire. Christos is delighted when Raafi agrees to come on board as the bank's new investor. Adriana visits her father in prison, determined to find out what has really happened to Adam.</desc>
@@ -5536,7 +5519,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261202140925 +0000" stop="20261202150000 +0000" channel="mjh-seven-syd">
+  <programme start="20261202140935 +0000" stop="20261202150030 +0000" channel="mjh-seven-syd">
     <title>Harry's Practice</title>
     <sub-title>Episode 49 of Season 1</sub-title>
     <desc>Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.</desc>
@@ -5549,7 +5532,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261202150000 +0000" stop="20261202152945 +0000" channel="mjh-seven-syd">
+  <programme start="20261202150030 +0000" stop="20261202153015 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>SSP Black Friday (SSPBF262830A)</sub-title>
     <desc>Shopping program.</desc>
@@ -5562,7 +5545,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261202152945 +0000" stop="20261202155945 +0000" channel="mjh-seven-syd">
+  <programme start="20261202153015 +0000" stop="20261202160015 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>Kleva Black Friday (KBF262830A)</sub-title>
     <desc>Shopping program.</desc>
@@ -5575,7 +5558,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261202155945 +0000" stop="20261202162930 +0000" channel="mjh-seven-syd">
+  <programme start="20261202160015 +0000" stop="20261202163000 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
     <desc>Shopping program.</desc>
@@ -5588,7 +5571,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261202162930 +0000" stop="20261202170000 +0000" channel="mjh-seven-syd">
+  <programme start="20261202163000 +0000" stop="20261202170000 +0000" channel="mjh-seven-syd">
     <title>Home Shopping</title>
     <sub-title>SSP Black Friday (SSPBF262830A)</sub-title>
     <desc>Shopping program.</desc>
@@ -5768,7 +5751,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261203092935 +0000" stop="20261203121735 +0000" channel="mjh-seven-syd">
+  <programme start="20261203092935 +0000" stop="20261203121910 +0000" channel="mjh-seven-syd">
     <title>Love Actually</title>
     <desc>Love's causing chaos all over London. Even the PM is smitten. Ten separate stories intertwine in a Christmas Eve climax.</desc>
     <category>Drama</category>
@@ -5777,13 +5760,13 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261203121735 +0000" stop="20261203135900 +0000" channel="mjh-seven-syd">
+  <programme start="20261203121910 +0000" stop="20261203140035 +0000" channel="mjh-seven-syd">
     <title>TBA</title>
     <desc>Programming to be announced.</desc>
     <category>Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/e19e5706caa9e640e7cf/image" />
   </programme>
-  <programme start="20261203135900 +0000" stop="20261203150000 +0000" channel="mjh-seven-syd">
+  <programme start="20261203140035 +0000" stop="20261203150000 +0000" channel="mjh-seven-syd">
     <title>Vampire Academy</title>
     <sub-title>Darkness</sub-title>
     <desc>The aftermath of the Trials throws the Dominion into chaos. Christian faces a horrific truth. Rose takes drastic measures for her future. A betrayal causes Lissa to face her Darkness.</desc>
@@ -6122,46 +6105,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="mjh-10-nsw">
-    <title>Millionaire Hot Seat</title>
-    <sub-title>Episode 186</sub-title>
-    <desc>Six hopefuls face fifteen questions for a shot at one million dollars. Among them, Zachary, who's attended a cheese-rolling competition, and Frank, who helped fight the Black Saturday bushfires.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f348f0a2ee0f071db799/image" />
-    <episode-num system="SxxExx">S16E186</episode-num>
-    <episode-num system="xmltv_ns">15.185.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="mjh-10-nsw">
-    <title>Buy To Build</title>
-    <sub-title>Episode 4</sub-title>
-    <desc>Each episode, Walt Collins helps house hunters explore the country's latest display homes and land developments to find the perfect home to suit their needs.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e420edf53c45802da822/image" />
-    <episode-num system="SxxExx">S09E04</episode-num>
-    <episode-num system="xmltv_ns">8.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128020000 +0000" stop="20261128023000 +0000" channel="mjh-10-nsw">
-    <title>Silvia's Italian Masterclass</title>
-    <sub-title>The Art Of Sharing</sub-title>
-    <desc>From a grazing board with a twist to a slow braise and a southern Italian sweet, this episode is all about food made for the table.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d95386257aff8729b5f1/image" />
-    <episode-num system="SxxExx">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128023000 +0000" stop="20261128033000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128022559 +0000" stop="20261128032737 +0000" channel="mjh-10-nsw">
     <title>Pat Callinan's 4x4 Adventures</title>
     <sub-title>Episode 2</sub-title>
     <desc>Join Pat Callinan as he makes an ambitious run across Australia to places you can only access with a 4X4. You'll be captivated by the destinations and learn tips from Australia's 4X4 guru.</desc>
@@ -6174,7 +6118,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128033000 +0000" stop="20261128043000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128032737 +0000" stop="20261128043004 +0000" channel="mjh-10-nsw">
     <title>Love It Or List It: Brilliant Builds</title>
     <sub-title>Best Value Builds</sub-title>
     <desc>Kirstie and Phil look back at two families who were pushed to their limits by life-changing builds. And when the dust had settled, both projects proved to be sound investments in more ways than one.</desc>
@@ -6187,7 +6131,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128043004 +0000" stop="20261128050147 +0000" channel="mjh-10-nsw">
     <title>Food Trail South Africa</title>
     <sub-title>Nambiti</sub-title>
     <desc>In Nambiti, Warren tags endangered African wild dogs, goes fishing with guide Joe, then cooks a spicy chickpea bunny chow and chilli-pineapple chicken wings with pap.</desc>
@@ -6200,7 +6144,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128050147 +0000" stop="20261128060000 +0000" channel="mjh-10-nsw">
     <title>Lingo</title>
     <sub-title>Episode 15</sub-title>
     <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
@@ -6256,7 +6200,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2025.37.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128111500 +0000" stop="20261128121500 +0000" channel="mjh-10-nsw">
+  <programme start="20261128111500 +0000" stop="20261128121535 +0000" channel="mjh-10-nsw">
     <title>Love It Or List It: Brilliant Builds</title>
     <sub-title>Downstairs Dilemmas</sub-title>
     <desc>Kirstie and Phil look back at two very different downstairs dilemmas, with one family surrendering much of their living space to their pets and another struggling to entertain the community.</desc>
@@ -6269,7 +6213,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128121500 +0000" stop="20261128131500 +0000" channel="mjh-10-nsw">
+  <programme start="20261128121535 +0000" stop="20261128131304 +0000" channel="mjh-10-nsw">
     <title>Healthy, Wealthy &amp; Wise</title>
     <sub-title>Episode 3 of Season 2026</sub-title>
     <desc>Melissa Leong and the team stress bust your life. Money expert Rachel finds clever side hustles to earn extra cash. Renovator Aimee transforms a dated home into a calming retreat.</desc>
@@ -6282,7 +6226,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128131500 +0000" stop="20261128134000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128131304 +0000" stop="20261128134120 +0000" channel="mjh-10-nsw">
     <title>Two And A Half Men</title>
     <sub-title>The Straw In My Donut Hole</sub-title>
     <desc>Alan decides to take advantage of the guilt felt by his family and Walden after his heart attack, but Zoe knows that he's just milking it and sets out to prove it.</desc>
@@ -6295,7 +6239,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261128134000 +0000" stop="20261128140000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128134120 +0000" stop="20261128140725 +0000" channel="mjh-10-nsw">
     <title>Two And A Half Men</title>
     <sub-title>Oh Look! Al-Qaeda!</sub-title>
     <desc>Jake and Eldridge make an important decision about their future after they graduate from high school and get fired from their jobs at Walden's new company.</desc>
@@ -6308,7 +6252,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128140725 +0000" stop="20261128143640 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 212 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6318,7 +6262,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.211.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128143640 +0000" stop="20261128150600 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 213 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6328,7 +6272,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.212.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128150600 +0000" stop="20261128153515 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 214 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6338,7 +6282,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.213.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128153515 +0000" stop="20261128160430 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 215 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6348,7 +6292,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.214.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128160430 +0000" stop="20261128163345 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 216 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6358,7 +6302,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.215.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128163345 +0000" stop="20261128170335 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 217 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6368,7 +6312,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.216.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128170335 +0000" stop="20261128173250 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 218 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6378,7 +6322,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.217.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128173250 +0000" stop="20261128180200 +0000" channel="mjh-10-nsw">
     <title>Home Shopping</title>
     <sub-title>Episode 219 of Season 2019</sub-title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -6388,7 +6332,7 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="xmltv_ns">2018.218.</episode-num>
     <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="mjh-10-nsw">
+  <programme start="20261128180200 +0000" stop="20261128190000 +0000" channel="mjh-10-nsw">
     <title>Hour Of Power</title>
     <sub-title>Episode 10 of Season 2026</sub-title>
     <desc>Hour Of Power with Bobby Schuller equips you with the tools you need to become a flourishing apprentice of Jesus.</desc>
@@ -9027,36 +8971,6 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="mjh-sbs-sbst">
-    <title>BBC News At Ten</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/973de3d3d31e29cbf584/image" />
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="mjh-sbs-sbst">
-    <title>France 24 International SBS Midday</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/55d581c14d6ff3a3bb9c/image" />
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128020000 +0000" stop="20261128030000 +0000" channel="mjh-sbs-sbst">
-    <title>PBS News Hour</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e2f5638e1dbb76126670/image" />
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
   <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="mjh-sbs-sbst">
     <title>SailGP Highlights</title>
@@ -11739,46 +11653,6 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="mjh-abc-news">
-    <title>ABC News At Noon</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/52a56d42b326025bbce9/image" />
-    <episode-num system="SxxExx">S2026E95</episode-num>
-    <episode-num system="xmltv_ns">2025.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="mjh-abc-news">
-    <title>The Regions</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>A weekly snapshot of what's going on beyond the big cities and suburbs. From the outback, remote, rural and country towns into the major regional and provincial cities, Amy Culpitt brings you the ABC's best regional stories.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ea80c894f5c3d4f86886/image" />
-    <episode-num system="SxxExx">S2026E44</episode-num>
-    <episode-num system="xmltv_ns">2025.43.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128020000 +0000" stop="20261128023000 +0000" channel="mjh-abc-news">
-    <title>ABC News</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c83b5fa4f9d341c1b93c/image" />
-    <episode-num system="SxxExx">S2026E95</episode-num>
-    <episode-num system="xmltv_ns">2025.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="mjh-abc-news">
-    <title>The Breakfast Couch</title>
-    <sub-title>Episode 43</sub-title>
-    <desc>James Glenday, Emma Rebellato, Catherine Murphy and Nate Byrne hear from some of the guests who have appeared on News Breakfast. Plus regulars including our film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/acbe2670cfe3f0361870/image" />
-    <episode-num system="SxxExx">S2026E43</episode-num>
-    <episode-num system="xmltv_ns">2025.42.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
   <programme start="20261128030000 +0000" stop="20261128033400 +0000" channel="mjh-abc-news">
     <title>ABC News</title>
